@@ -1,0 +1,270 @@
+[
+  {
+    "question": "show me complaints about searching by object without a date",
+    "findings": [
+      "Among the 8 closest items, funnel stage **query_formulation** appears 7 times.",
+      "Memory type **unclear** appears 4 times in that slice.",
+      "Top workaround in slice: **none_mentioned** (8).",
+      "Counts are from retrieved items, not the full corpus — compare with the opportunity matrix."
+    ],
+    "excerpts": [
+      {
+        "summary": "i’m going to find a different way to save my memories without limits and without trashy edits.. I don't want my memories to have music with lyrics. I am a Christian and I was watch",
+        "stage": "query_formulation",
+        "memory_type": "emotional_episodic",
+        "workaround": "none_mentioned",
+        "source": "app_store"
+      },
+      {
+        "summary": "now what the heck happened again I left a review saying how the edit button was missing on the videos, 2 Days later the edit button was back on and I edited my post and give you gu",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking for, things are no l",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Photos is forcing AI generated \"creations\" that use your photos. If you want to use the image search and ask questions about pictures, you have to have this enabled. There is no wa",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Just Terrible for the Users. No adjustments can be made for my convenience. It's the Apps way or No Way! can't delete from Google storage from the app, and just a crazy incomprehen",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Good for photo storage and searching, but it sends too many memories/themed notifications each day and there isn't an option to fine-tune this other than to disable them. I like th",
+        "stage": "visual_evaluation",
+        "memory_type": "temporal_only",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Tip videos say search by object. That fails for a white medicine box that looks like every other box. I still cannot find last year's prescription photo.",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "youtube"
+      }
+    ]
+  },
+  {
+    "question": "what workarounds do users mention most for medicine or document photos",
+    "findings": [
+      "Among the 8 closest items, funnel stage **query_formulation** appears 8 times.",
+      "Memory type **unclear** appears 4 times in that slice.",
+      "Top workaround in slice: **none_mentioned** (7).",
+      "Counts are from retrieved items, not the full corpus — compare with the opportunity matrix."
+    ],
+    "excerpts": [
+      {
+        "summary": "Just Terrible for the Users. No adjustments can be made for my convenience. It's the Apps way or No Way! can't delete from Google storage from the app, and just a crazy incomprehen",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "I would very much appreciate it if the out of storage display (for backed up documents) would stop appearing. My photos are automatically backup without my say so. I'm not interest",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Google Photos search is useless when I remember why I captured something (a receipt for a form) but not what to type. I ended up asking my partner to look on their phone.",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "reddit"
+      },
+      {
+        "summary": "Hate it. I cant stand how it automatically stores my photos in Numerous different folders without asking me where I want them, it makes it SO much more difficult to easily find wha",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Specifically purchased the type of phone I have for this photos app. For years I have been thrilled. However, with AI (just like Gmail app now) I'm exhausted, frustrated, and disap",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "the app is actually good. you can do a lot of things to edit photos or videos, the search bar and the app automatically selects photos of different people and store in one place. m",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "I like Google photos but the mobile app is a bit of a cluster compared to the more straightforward, less clustered desktop/PC version. Also, is there a reliable way for duplicate i",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "manual_scroll",
+        "source": "play_store"
+      },
+      {
+        "summary": "6 years of photos and videos were completely removed after the recent update. There is no help to retrieve these files. And from what I see in other reviews, you guys don't care to",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      }
+    ]
+  },
+  {
+    "question": "where does retrieval fail after the first search miss",
+    "findings": [
+      "Among the 8 closest items, funnel stage **query_formulation** appears 7 times.",
+      "Memory type **functional_utility** appears 4 times in that slice.",
+      "Top workaround in slice: **none_mentioned** (6).",
+      "Counts are from retrieved items, not the full corpus — compare with the opportunity matrix."
+    ],
+    "excerpts": [
+      {
+        "summary": "I know I took a screenshot of a medicine label when I was sick last year but search does not understand that. I do not remember the date or the brand name so I scroll for hours.",
+        "stage": "recall_trigger",
+        "memory_type": "functional_utility",
+        "workaround": "manual_scroll",
+        "source": "reddit"
+      },
+      {
+        "summary": "If you search images of something on Google, the images are not always in the same order. For example, in the images of Lori Loud from The Loud House on Google, there used to be an",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "youtube"
+      },
+      {
+        "summary": "Love Google Photos!. Not only does it store my photos in the Cloud, it does so much more! Checking out all the fun things I can do with my photos--make collages, edit, cinematic ph",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "app_store"
+      },
+      {
+        "summary": "Something annoying happened in the recent version! I usually edit pictures and send them to friends. Now, after I edit them, although I see them in the gallery, when I try to choos",
+        "stage": "query_formulation",
+        "memory_type": "temporal_only",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "The last time I was facing an issue where the \"Places\" folder in the collections tab would vanish from the app a few seconds after opening Google Photos. A new update has fixed tha",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Changes in app aren't reflected in Google photos on desktop. I only used the app because I can't see stacks of photos in the browser version. I thought this would be a good way to ",
+        "stage": "query_formulation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "Can we stop adding unnecessary features no one asked for??? I just noticed there are \"Automatic albums\" where it also allows you to archive photos after 30 days, while it may be us",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "used_album",
+        "source": "play_store"
+      },
+      {
+        "summary": "Within the past couple weeks, I'm unable to use search - all searches return no results. App no longer grabs search terms from the 'commenting' area where I label important photos ",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      }
+    ]
+  },
+  {
+    "question": "do people remember why they took a screenshot but not what to type",
+    "findings": [
+      "Among the 8 closest items, funnel stage **recall_trigger** appears 4 times.",
+      "Memory type **functional_utility** appears 3 times in that slice.",
+      "Top workaround in slice: **none_mentioned** (5).",
+      "Counts are from retrieved items, not the full corpus — compare with the opportunity matrix."
+    ],
+    "excerpts": [
+      {
+        "summary": "Google Photos search is useless when I remember why I captured something (a receipt for a form) but not what to type. I ended up asking my partner to look on their phone.",
+        "stage": "query_formulation",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "reddit"
+      },
+      {
+        "summary": "I know I took a screenshot of a medicine label when I was sick last year but search does not understand that. I do not remember the date or the brand name so I scroll for hours.",
+        "stage": "recall_trigger",
+        "memory_type": "functional_utility",
+        "workaround": "manual_scroll",
+        "source": "reddit"
+      },
+      {
+        "summary": "Ongoing issue for some time now. It fails to recognise pets in a lot of photos. If I type in search bar \"dogs\", those pet photos appear, however if I just go through People and Pet",
+        "stage": "query_formulation",
+        "memory_type": "people_anchored",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "love it! Google Photos has been my go to for as long as I can remember! it's got many new overhauls and totally cool additions such as AI, although AI can definitely flub some phot",
+        "stage": "recall_trigger",
+        "memory_type": "unclear",
+        "workaround": "used_album",
+        "source": "play_store"
+      },
+      {
+        "summary": "Search doesn't work like it used to, so it kind of makes this app worthless to me! With nearly 60k photos I can no longer search for SOME family and friends names in label descript",
+        "stage": "system_interpretation",
+        "memory_type": "unclear",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "In the more section of the app, I can no longer send, print, email, etc. I have tried everything. Every time i download photos from google messages, it doesn't go in the same day I",
+        "stage": "query_formulation",
+        "memory_type": "people_anchored",
+        "workaround": "none_mentioned",
+        "source": "play_store"
+      },
+      {
+        "summary": "the new update makes zero sense, I likes it where I was able to just watch all my albums in one go, instead now it's all folder inside of folder?! I have bad memory and can't alway",
+        "stage": "recall_trigger",
+        "memory_type": "people_anchored",
+        "workaround": "used_album",
+        "source": "play_store"
+      },
+      {
+        "summary": "People tab is fine. The problem is screenshots. They vanish unless I remember the exact words on screen.",
+        "stage": "recall_trigger",
+        "memory_type": "functional_utility",
+        "workaround": "none_mentioned",
+        "source": "reddit"
+      }
+    ]
+  }
+]

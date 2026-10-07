@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "prompt": "Find a photo of just your father, no one else in it, at a family function.",
+    "target_id": "ph_031"
+  },
+  {
+    "id": "T2",
+    "prompt": "Find the group photo from your college farewell.",
+    "target_id": "ph_066"
+  },
+  {
+    "id": "T3",
+    "prompt": "Find the photo of your 7th birthday, the one with the blue cake.",
+    "target_id": "ph_003"
+  },
+  {
+    "id": "T4",
+    "prompt": "Find the small café in Goa with the blue door.",
+    "target_id": "ph_114"
+  },
+  {
+    "id": "T5",
+    "prompt": "Find the photo of the medicine you took when you were ill last year.",
+    "target_id": "ph_117"
+  },
+  {
+    "id": "T6",
+    "prompt": "Find the Diwali photo from when you had just moved into the new house.",
+    "target_id": "ph_127"
+  }
+]

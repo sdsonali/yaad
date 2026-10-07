@@ -1,0 +1,3582 @@
+[
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "3"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 3,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 3th birthday, colourful cake and candles",
+    "id": "ph_001",
+    "file": "/photos/ph_001.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "5"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 5,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 5th birthday, colourful cake and candles",
+    "id": "ph_002",
+    "file": "/photos/ph_002.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "7",
+      "blue"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 7,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "blue cake, candles, 7th birthday",
+    "caption_en": "Aarav's 7th birthday, blue cake and candles",
+    "id": "ph_003",
+    "file": "/photos/ph_003.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "7",
+      "pink"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 7,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "pink cake, 7th birthday, candles",
+    "caption_en": "Aarav's 7th birthday, pink cake and candles",
+    "id": "ph_004",
+    "file": "/photos/ph_004.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "8"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 8th birthday, colourful cake and candles",
+    "id": "ph_005",
+    "file": "/photos/ph_005.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "10"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 10th birthday, colourful cake and candles",
+    "id": "ph_006",
+    "file": "/photos/ph_006.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "9"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 9th birthday, colourful cake and candles",
+    "id": "ph_007",
+    "file": "/photos/ph_007.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "8"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 8th birthday, colourful cake and candles",
+    "id": "ph_008",
+    "file": "/photos/ph_008.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "10"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 10th birthday, colourful cake and candles",
+    "id": "ph_009",
+    "file": "/photos/ph_009.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "birthday",
+      "cake",
+      "candles",
+      "9"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "birthday",
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav's 9th birthday, colourful cake and candles",
+    "id": "ph_010",
+    "file": "/photos/ph_010.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 8, on stage with Mummy and Diya",
+    "id": "ph_011",
+    "file": "/photos/ph_011.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 9, on stage with Mummy and Diya",
+    "id": "ph_012",
+    "file": "/photos/ph_012.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 10, on stage with Mummy and Diya",
+    "id": "ph_013",
+    "file": "/photos/ph_013.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 8, on stage with Mummy and Diya",
+    "id": "ph_014",
+    "file": "/photos/ph_014.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 9, on stage with Mummy and Diya",
+    "id": "ph_015",
+    "file": "/photos/ph_015.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "school",
+      "annual",
+      "stage",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "school_event",
+    "place": null,
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "School annual day when Aarav was 10, on stage with Mummy and Diya",
+    "id": "ph_016",
+    "file": "/photos/ph_016.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "diwali",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "diwali",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Childhood Diwali at the old house, diyas and rangoli, age 8",
+    "id": "ph_017",
+    "file": "/photos/ph_017.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "diwali",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "diwali",
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Childhood Diwali at the old house, diyas and rangoli, age 9",
+    "id": "ph_018",
+    "file": "/photos/ph_018.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "diwali",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "diwali",
+    "place": null,
+    "year": null,
+    "user_age": 7,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Childhood Diwali at the old house, diyas and rangoli, age 7",
+    "id": "ph_019",
+    "file": "/photos/ph_019.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "holi",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "holi",
+    "place": null,
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Holi in the courtyard when Aarav was 10",
+    "id": "ph_020",
+    "file": "/photos/ph_020.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "holi",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "holi",
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Holi in the courtyard when Aarav was 8",
+    "id": "ph_021",
+    "file": "/photos/ph_021.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "holi",
+      "festival",
+      "childhood",
+      "family"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "holi",
+    "place": null,
+    "year": null,
+    "user_age": 4,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Holi in the courtyard when Aarav was 4",
+    "id": "ph_022",
+    "file": "/photos/ph_022.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "trip",
+      "shimla",
+      "family",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "trip",
+    "place": "shimla",
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Family trip to Shimla when Aarav was 9",
+    "id": "ph_023",
+    "file": "/photos/ph_023.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "trip",
+      "shimla",
+      "family",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "trip",
+    "place": "shimla",
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Family trip to Shimla when Aarav was 8",
+    "id": "ph_024",
+    "file": "/photos/ph_024.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "trip",
+      "shimla",
+      "family",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "trip",
+    "place": "shimla",
+    "year": null,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Family trip to Shimla when Aarav was 10",
+    "id": "ph_025",
+    "file": "/photos/ph_025.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "trip",
+      "jaipur",
+      "family",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "trip",
+    "place": "jaipur",
+    "year": null,
+    "user_age": 7,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Family trip to Jaipur when Aarav was 7",
+    "id": "ph_026",
+    "file": "/photos/ph_026.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "trip",
+      "jaipur",
+      "family",
+      "childhood"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "trip",
+    "place": "jaipur",
+    "year": null,
+    "user_age": 6,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Family trip to Jaipur when Aarav was 6",
+    "id": "ph_027",
+    "file": "/photos/ph_027.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "childhood",
+      "family",
+      "home"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav at a neighbourhood park with Mummy and Diya",
+    "id": "ph_028",
+    "file": "/photos/ph_028.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "childhood",
+      "family",
+      "home"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Afternoon at the old Delhi house, Aarav with Mummy and Diya",
+    "id": "ph_029",
+    "file": "/photos/ph_029.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "childhood",
+      "family",
+      "home"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": 5,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Rainy day on the balcony when Aarav was little",
+    "id": "ph_030",
+    "file": "/photos/ph_030.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "family",
+      "function",
+      "garland"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "family function, garlands, diyas, papa alone",
+    "caption_en": "Papa alone at a family function, marigold garlands and diyas behind him",
+    "id": "ph_031",
+    "file": "/photos/ph_031.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "newspaper"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone in an armchair reading the newspaper",
+    "id": "ph_032",
+    "file": "/photos/ph_032.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "office"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone at his office desk",
+    "id": "ph_033",
+    "file": "/photos/ph_033.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "park"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone on a morning walk in the park",
+    "id": "ph_034",
+    "file": "/photos/ph_034.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "kitchen"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone cooking in the kitchen",
+    "id": "ph_035",
+    "file": "/photos/ph_035.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "car"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone in the driver seat of the car",
+    "id": "ph_036",
+    "file": "/photos/ph_036.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "solo",
+      "tea",
+      "balcony"
+    ],
+    "people": [
+      "papa"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa alone on the balcony with a cup of tea",
+    "id": "ph_037",
+    "file": "/photos/ph_037.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_038",
+    "file": "/photos/ph_038.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_039",
+    "file": "/photos/ph_039.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_040",
+    "file": "/photos/ph_040.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_041",
+    "file": "/photos/ph_041.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_042",
+    "file": "/photos/ph_042.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "family",
+      "group",
+      "mummy",
+      "diya"
+    ],
+    "people": [
+      "papa",
+      "mummy",
+      "self",
+      "sister"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa with Mummy, Aarav and Diya together at home",
+    "id": "ph_043",
+    "file": "/photos/ph_043.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_044",
+    "file": "/photos/ph_044.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_045",
+    "file": "/photos/ph_045.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_046",
+    "file": "/photos/ph_046.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_047",
+    "file": "/photos/ph_047.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_048",
+    "file": "/photos/ph_048.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_049",
+    "file": "/photos/ph_049.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "papa",
+      "friends",
+      "group"
+    ],
+    "people": [
+      "papa",
+      "friends",
+      "karan",
+      "rohit"
+    ],
+    "person_count": 6,
+    "composition": "group",
+    "occasion": null,
+    "place": null,
+    "year": null,
+    "user_age": null,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Papa in a large group with his friends Karan and Rohit's uncle's circle",
+    "id": "ph_050",
+    "file": "/photos/ph_050.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2016,
+    "user_age": 18,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_051",
+    "file": "/photos/ph_051.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2017,
+    "user_age": 19,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_052",
+    "file": "/photos/ph_052.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2018,
+    "user_age": 20,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_053",
+    "file": "/photos/ph_053.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2019,
+    "user_age": 21,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_054",
+    "file": "/photos/ph_054.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2020,
+    "user_age": 22,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_055",
+    "file": "/photos/ph_055.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "college_fest"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "college_fest",
+    "place": "campus",
+    "year": 2016,
+    "user_age": 18,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College fest night, Aarav with Karan, Neha and Rohit",
+    "id": "ph_056",
+    "file": "/photos/ph_056.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hostel"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "hostel",
+    "place": "campus",
+    "year": 2017,
+    "user_age": 19,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Hostel corridor during college, Aarav and friends",
+    "id": "ph_057",
+    "file": "/photos/ph_057.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hostel"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "hostel",
+    "place": "campus",
+    "year": 2018,
+    "user_age": 20,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Hostel corridor during college, Aarav and friends",
+    "id": "ph_058",
+    "file": "/photos/ph_058.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hostel"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "hostel",
+    "place": "campus",
+    "year": 2019,
+    "user_age": 21,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Hostel corridor during college, Aarav and friends",
+    "id": "ph_059",
+    "file": "/photos/ph_059.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hostel"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "hostel",
+    "place": "campus",
+    "year": 2020,
+    "user_age": 22,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Hostel corridor during college, Aarav and friends",
+    "id": "ph_060",
+    "file": "/photos/ph_060.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hostel"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "hostel",
+    "place": "campus",
+    "year": 2016,
+    "user_age": 18,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Hostel corridor during college, Aarav and friends",
+    "id": "ph_061",
+    "file": "/photos/ph_061.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "canteen"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "canteen",
+    "place": "campus",
+    "year": 2017,
+    "user_age": 19,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College canteen lunch with friends",
+    "id": "ph_062",
+    "file": "/photos/ph_062.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "canteen"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "canteen",
+    "place": "campus",
+    "year": 2018,
+    "user_age": 20,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College canteen lunch with friends",
+    "id": "ph_063",
+    "file": "/photos/ph_063.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "canteen"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "canteen",
+    "place": "campus",
+    "year": 2019,
+    "user_age": 21,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College canteen lunch with friends",
+    "id": "ph_064",
+    "file": "/photos/ph_064.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "canteen"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "canteen",
+    "place": "campus",
+    "year": 2020,
+    "user_age": 22,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "College canteen lunch with friends",
+    "id": "ph_065",
+    "file": "/photos/ph_065.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "farewell"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": "farewell",
+    "place": "campus",
+    "year": 2020,
+    "user_age": 22,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Group photo from the college farewell, Aarav with Karan, Neha and Rohit",
+    "id": "ph_066",
+    "file": "/photos/ph_066.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "farewell"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": "farewell",
+    "place": "campus",
+    "year": 2017,
+    "user_age": 19,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav alone at the microphone during college farewell",
+    "id": "ph_067",
+    "file": "/photos/ph_067.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "farewell"
+    ],
+    "people": [
+      "self",
+      "neha"
+    ],
+    "person_count": 2,
+    "composition": "duo",
+    "occasion": "farewell",
+    "place": "campus",
+    "year": 2018,
+    "user_age": 20,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav and Neha at the college farewell cake table",
+    "id": "ph_068",
+    "file": "/photos/ph_068.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "farewell"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": "farewell",
+    "place": "campus",
+    "year": 2019,
+    "user_age": 21,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav giving the farewell speech alone on stage",
+    "id": "ph_069",
+    "file": "/photos/ph_069.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "farewell"
+    ],
+    "people": [
+      "self",
+      "neha"
+    ],
+    "person_count": 2,
+    "composition": "duo",
+    "occasion": "farewell",
+    "place": "campus",
+    "year": 2020,
+    "user_age": 22,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav and Karan after the college farewell",
+    "id": "ph_070",
+    "file": "/photos/ph_070.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hangout"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": "campus",
+    "year": 2016,
+    "user_age": 18,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend hangout during college with friends",
+    "id": "ph_071",
+    "file": "/photos/ph_071.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hangout"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": "campus",
+    "year": 2017,
+    "user_age": 19,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend hangout during college with friends",
+    "id": "ph_072",
+    "file": "/photos/ph_072.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hangout"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": "campus",
+    "year": 2018,
+    "user_age": 20,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend hangout during college with friends",
+    "id": "ph_073",
+    "file": "/photos/ph_073.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "college",
+      "campus",
+      "friends",
+      "hangout"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "rohit",
+      "friends"
+    ],
+    "person_count": 4,
+    "composition": "group",
+    "occasion": null,
+    "place": "campus",
+    "year": 2019,
+    "user_age": 21,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend hangout during college with friends",
+    "id": "ph_074",
+    "file": "/photos/ph_074.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School certificate for Aarav Sharma, Sports Day award, DPS Delhi",
+    "tags": [
+      "certificate",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2004,
+    "user_age": 6,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nSCHOOL\nCertificate of Merit\nAarav Sharma\nSports Day award\n2004",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_075",
+    "file": "/photos/ph_075.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School certificate for Aarav Sharma, Science fair prize, DPS Delhi",
+    "tags": [
+      "certificate",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2006,
+    "user_age": 8,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nSCHOOL\nCertificate of Merit\nAarav Sharma\nScience fair prize\n2006",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_076",
+    "file": "/photos/ph_076.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School certificate for Aarav Sharma, Class monitor honour, DPS Delhi",
+    "tags": [
+      "certificate",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2008,
+    "user_age": 10,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nSCHOOL\nCertificate of Merit\nAarav Sharma\nClass monitor honour\n2008",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_077",
+    "file": "/photos/ph_077.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School certificate for Aarav Sharma, Annual merit certificate, DPS Delhi",
+    "tags": [
+      "certificate",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2009,
+    "user_age": 11,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nSCHOOL\nCertificate of Merit\nAarav Sharma\nAnnual merit certificate\n2009",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_078",
+    "file": "/photos/ph_078.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "College certificate for Aarav Sharma, Fest volunteer, Delhi University",
+    "tags": [
+      "certificate",
+      "college",
+      "university"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2017,
+    "user_age": 19,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "Delhi University\nCOLLEGE\nCertificate\nAarav Sharma\nFest volunteer\n2017",
+    "institution": "Delhi University",
+    "sensory_notes": null,
+    "id": "ph_079",
+    "file": "/photos/ph_079.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "College certificate for Aarav Sharma, Dean's list, Delhi University",
+    "tags": [
+      "certificate",
+      "college",
+      "university"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2018,
+    "user_age": 20,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "Delhi University\nCOLLEGE\nCertificate\nAarav Sharma\nDean's list\n2018",
+    "institution": "Delhi University",
+    "sensory_notes": null,
+    "id": "ph_080",
+    "file": "/photos/ph_080.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "College certificate for Aarav Sharma, Seminar completion, Delhi University",
+    "tags": [
+      "certificate",
+      "college",
+      "university"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2019,
+    "user_age": 21,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "Delhi University\nCOLLEGE\nCertificate\nAarav Sharma\nSeminar completion\n2019",
+    "institution": "Delhi University",
+    "sensory_notes": null,
+    "id": "ph_081",
+    "file": "/photos/ph_081.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "Work certificate for Aarav Sharma, Onboarding completion, TCS Delhi",
+    "tags": [
+      "certificate",
+      "work",
+      "course"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2023,
+    "user_age": 25,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "TCS Delhi\nWORK\nCertificate of Completion\nAarav Sharma\nOnboarding completion\n2023",
+    "institution": "TCS Delhi",
+    "sensory_notes": null,
+    "id": "ph_082",
+    "file": "/photos/ph_082.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "Work certificate for Aarav Sharma, Cloud course completion, TCS Delhi",
+    "tags": [
+      "certificate",
+      "work",
+      "course"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "certificate",
+    "place": null,
+    "year": 2024,
+    "user_age": 26,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "TCS Delhi\nWORK\nCertificate of Completion\nAarav Sharma\nCloud course completion\n2024",
+    "institution": "TCS Delhi",
+    "sensory_notes": null,
+    "id": "ph_083",
+    "file": "/photos/ph_083.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School marksheet for Aarav Sharma, DPS Delhi",
+    "tags": [
+      "marksheet",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2007,
+    "user_age": 9,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nMARKSHEET\nClass 6 result\nAarav Sharma\nDPS Delhi\n2007",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_084",
+    "file": "/photos/ph_084.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "College marksheet for Aarav Sharma, Delhi University",
+    "tags": [
+      "marksheet",
+      "college"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2019,
+    "user_age": 21,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "Delhi University\nMARKSHEET\nSemester result\nAarav Sharma\nDelhi University\n2019",
+    "institution": "Delhi University",
+    "sensory_notes": null,
+    "id": "ph_085",
+    "file": "/photos/ph_085.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "School identity card for Aarav Sharma, DPS Delhi",
+    "tags": [
+      "id",
+      "school",
+      "dps"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2012,
+    "user_age": 14,
+    "source": "scan",
+    "objects": [],
+    "text_in_image": "DPS Delhi\nIDENTITY CARD\nStudent\nAarav Sharma\nDPS Delhi\n2012",
+    "institution": "DPS Delhi",
+    "sensory_notes": null,
+    "id": "ph_086",
+    "file": "/photos/ph_086.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a college notice: Annual fest schedule",
+    "tags": [
+      "screenshot",
+      "college",
+      "notice"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2017,
+    "user_age": 19,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "COLLEGE NOTICE\nAnnual fest schedule\nDelhi University\n2017",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_087",
+    "file": "/photos/ph_087.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a college notice: Exam seating plan",
+    "tags": [
+      "screenshot",
+      "college",
+      "notice"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2018,
+    "user_age": 20,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "COLLEGE NOTICE\nExam seating plan\nDelhi University\n2018",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_088",
+    "file": "/photos/ph_088.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a college notice: Hostel allotment",
+    "tags": [
+      "screenshot",
+      "college",
+      "notice"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2018,
+    "user_age": 20,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "COLLEGE NOTICE\nHostel allotment\nDelhi University\n2018",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_089",
+    "file": "/photos/ph_089.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a college notice: Workshop signup",
+    "tags": [
+      "screenshot",
+      "college",
+      "notice"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2019,
+    "user_age": 21,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "COLLEGE NOTICE\nWorkshop signup\nDelhi University\n2019",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_090",
+    "file": "/photos/ph_090.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "WhatsApp chat with Karan about reaching the hostel",
+    "tags": [
+      "screenshot",
+      "whatsapp",
+      "chat"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2021,
+    "user_age": 23,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "WhatsApp\nKaran: reaching hostel\nNeha: on my way",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_091",
+    "file": "/photos/ph_091.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "WhatsApp chat planning a Sunday outing",
+    "tags": [
+      "screenshot",
+      "whatsapp",
+      "chat"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2022,
+    "user_age": 24,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "WhatsApp\nRohit: Sunday plan?\nAarav: let's go",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_092",
+    "file": "/photos/ph_092.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "WhatsApp chat with a forwarded joke",
+    "tags": [
+      "screenshot",
+      "whatsapp",
+      "chat"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2023,
+    "user_age": 25,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "WhatsApp\nForwarded\nDid you see this?",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_093",
+    "file": "/photos/ph_093.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a masala chai recipe",
+    "tags": [
+      "screenshot",
+      "recipe"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2021,
+    "user_age": 23,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "Recipe\nMasala chai\nMilk, ginger, tea",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_094",
+    "file": "/photos/ph_094.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a pasta recipe",
+    "tags": [
+      "screenshot",
+      "recipe"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2022,
+    "user_age": 24,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "Recipe\nTomato pasta\nGarlic and basil",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_095",
+    "file": "/photos/ph_095.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a train ticket from Delhi to Goa",
+    "tags": [
+      "screenshot",
+      "ticket",
+      "goa"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "TRAIN TICKET\nDelhi to Goa\nMarch 2023",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_096",
+    "file": "/photos/ph_096.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a movie ticket",
+    "tags": [
+      "screenshot",
+      "ticket"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2022,
+    "user_age": 24,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "MOVIE TICKET\nEvening show\nPVR Delhi",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_097",
+    "file": "/photos/ph_097.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a college meme about assignments",
+    "tags": [
+      "screenshot",
+      "meme"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2020,
+    "user_age": 22,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "When the assignment\nis due tomorrow",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_098",
+    "file": "/photos/ph_098.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a meme about Monday mornings",
+    "tags": [
+      "screenshot",
+      "meme"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2021,
+    "user_age": 23,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "Monday morning\nagain",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_099",
+    "file": "/photos/ph_099.jpg"
+  },
+  {
+    "type": "screenshot",
+    "caption_en": "Screenshot of a meme Neha sent",
+    "tags": [
+      "screenshot",
+      "meme"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2022,
+    "user_age": 24,
+    "source": "screenshot",
+    "objects": [],
+    "text_in_image": "Neha sent this\ntoo real",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_100",
+    "file": "/photos/ph_100.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "beach",
+      "sea",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "wide beach, sand, sea",
+    "caption_en": "Aarav with Karan and Neha on a Goa beach",
+    "id": "ph_101",
+    "file": "/photos/ph_101.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "beach",
+      "sea",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "wide beach, sand, sea",
+    "caption_en": "Aarav with Karan and Neha on a Goa beach",
+    "id": "ph_102",
+    "file": "/photos/ph_102.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "beach",
+      "sea",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "wide beach, sand, sea",
+    "caption_en": "Aarav with Karan and Neha on a Goa beach",
+    "id": "ph_103",
+    "file": "/photos/ph_103.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "beach",
+      "sea",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "wide beach, sand, sea",
+    "caption_en": "Aarav with Karan and Neha on a Goa beach",
+    "id": "ph_104",
+    "file": "/photos/ph_104.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "beach",
+      "sea",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "wide beach, sand, sea",
+    "caption_en": "Aarav with Karan and Neha on a Goa beach",
+    "id": "ph_105",
+    "file": "/photos/ph_105.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "sunset",
+      "beach",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "orange sunset, sea horizon",
+    "caption_en": "Sunset over the sea on the Goa trip",
+    "id": "ph_106",
+    "file": "/photos/ph_106.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "sunset",
+      "beach",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "orange sunset, sea horizon",
+    "caption_en": "Sunset over the sea on the Goa trip",
+    "id": "ph_107",
+    "file": "/photos/ph_107.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "sunset",
+      "beach",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "orange sunset, sea horizon",
+    "caption_en": "Sunset over the sea on the Goa trip",
+    "id": "ph_108",
+    "file": "/photos/ph_108.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "sunset",
+      "beach",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "beach",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "orange sunset, sea horizon",
+    "caption_en": "Sunset over the sea on the Goa trip",
+    "id": "ph_109",
+    "file": "/photos/ph_109.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "food",
+      "dinner",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "food",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "thali, dinner table",
+    "caption_en": "Dinner on the Goa trip, thali and cold drinks",
+    "id": "ph_110",
+    "file": "/photos/ph_110.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "food",
+      "dinner",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "food",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "thali, dinner table",
+    "caption_en": "Dinner on the Goa trip, thali and cold drinks",
+    "id": "ph_111",
+    "file": "/photos/ph_111.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "food",
+      "dinner",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "food",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "thali, dinner table",
+    "caption_en": "Dinner on the Goa trip, thali and cold drinks",
+    "id": "ph_112",
+    "file": "/photos/ph_112.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "food",
+      "dinner",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "food",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "thali, dinner table",
+    "caption_en": "Dinner on the Goa trip, thali and cold drinks",
+    "id": "ph_113",
+    "file": "/photos/ph_113.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "cafe",
+      "blue",
+      "door",
+      "small",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "cafe",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "small cafe, blue door, string lights",
+    "caption_en": "Small cafe in Goa with a blue door and string lights",
+    "id": "ph_114",
+    "file": "/photos/ph_114.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "cafe",
+      "rooftop",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "cafe",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "rooftop cafe, city view, evening",
+    "caption_en": "Rooftop cafe in Goa with a city view",
+    "id": "ph_115",
+    "file": "/photos/ph_115.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "goa",
+      "cafe",
+      "shack",
+      "beach",
+      "trip"
+    ],
+    "people": [
+      "self",
+      "karan",
+      "neha",
+      "friends"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "cafe",
+    "place": "goa",
+    "year": 2023,
+    "user_age": 25,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "beach shack, thatched roof, sand",
+    "caption_en": "Beach shack cafe in Goa with a thatched roof",
+    "id": "ph_116",
+    "file": "/photos/ph_116.jpg"
+  },
+  {
+    "type": "object",
+    "caption_en": "Blister strip of paracetamol Aarav took while ill",
+    "tags": [
+      "medicine",
+      "pill",
+      "paracetamol",
+      "illness"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "medical",
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [
+      "pill strip",
+      "medicine"
+    ],
+    "text_in_image": "PARACETAMOL 500 medicine strip",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_117",
+    "file": "/photos/ph_117.jpg"
+  },
+  {
+    "type": "object",
+    "caption_en": "Vitamin bottle from the same illness, not the fever medicine",
+    "tags": [
+      "medicine",
+      "bottle",
+      "vitamin"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "medical",
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [
+      "pill bottle",
+      "medicine"
+    ],
+    "text_in_image": "Vitamin bottle from the same illness, not the fever medicine",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_118",
+    "file": "/photos/ph_118.jpg"
+  },
+  {
+    "type": "object",
+    "caption_en": "Thermometer used while Aarav was ill",
+    "tags": [
+      "medicine",
+      "thermometer",
+      "fever"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": "medical",
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [
+      "thermometer",
+      "medicine"
+    ],
+    "text_in_image": "Thermometer used while Aarav was ill",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_119",
+    "file": "/photos/ph_119.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "Prescription slip for fever medicine, Dr Mehta, 2025",
+    "tags": [
+      "prescription",
+      "medicine",
+      "fever"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "scan",
+    "objects": [
+      "prescription"
+    ],
+    "text_in_image": "City Clinic\nPRESCRIPTION\nParacetamol 500mg\nmedicine for fever\nAarav Sharma\n2025",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_120",
+    "file": "/photos/ph_120.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "Doctor's note advising rest and medicine, 2025",
+    "tags": [
+      "doctor",
+      "medicine",
+      "note"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "scan",
+    "objects": [
+      "doctor note"
+    ],
+    "text_in_image": "City Clinic\nDOCTOR NOTE\nAarav Sharma was ill\nmedicine advised\nRest for 3 days\n2025",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_121",
+    "file": "/photos/ph_121.jpg"
+  },
+  {
+    "type": "document",
+    "caption_en": "Lab report after the fever, medicine follow-up, 2025",
+    "tags": [
+      "lab",
+      "report",
+      "medicine"
+    ],
+    "people": [],
+    "person_count": 0,
+    "composition": "none",
+    "occasion": null,
+    "place": null,
+    "year": 2025,
+    "user_age": 27,
+    "source": "scan",
+    "objects": [
+      "lab report"
+    ],
+    "text_in_image": "Path Lab\nLAB REPORT\nBlood test\nmedicine follow-up\nAarav Sharma\n2025",
+    "institution": null,
+    "sensory_notes": null,
+    "id": "ph_122",
+    "file": "/photos/ph_122.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "office",
+      "work",
+      "desk"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": "office",
+    "year": 2024,
+    "user_age": 26,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav at his office desk",
+    "id": "ph_123",
+    "file": "/photos/ph_123.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "office",
+      "work",
+      "desk"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": "office",
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav at his office desk",
+    "id": "ph_124",
+    "file": "/photos/ph_124.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "office",
+      "work",
+      "desk"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": "office",
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav at his office desk",
+    "id": "ph_125",
+    "file": "/photos/ph_125.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "office",
+      "work",
+      "desk"
+    ],
+    "people": [
+      "self"
+    ],
+    "person_count": 1,
+    "composition": "solo",
+    "occasion": null,
+    "place": "office",
+    "year": 2026,
+    "user_age": 28,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Aarav at his office desk",
+    "id": "ph_126",
+    "file": "/photos/ph_126.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "diwali",
+      "festival",
+      "home",
+      "new",
+      "house"
+    ],
+    "people": [
+      "self",
+      "mummy",
+      "sister"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "diwali",
+    "place": "delhi_home",
+    "year": 2024,
+    "user_age": 26,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": "new house, diwali, modern living room, diyas",
+    "caption_en": "Diwali in the new Delhi house, diyas in the living room",
+    "id": "ph_127",
+    "file": "/photos/ph_127.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "outing",
+      "weekend",
+      "delhi",
+      "friends"
+    ],
+    "people": [
+      "self",
+      "friends",
+      "karan"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "outing",
+    "place": "delhi",
+    "year": 2024,
+    "user_age": 26,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend outing in Delhi with friends",
+    "id": "ph_128",
+    "file": "/photos/ph_128.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "outing",
+      "weekend",
+      "delhi",
+      "friends"
+    ],
+    "people": [
+      "self",
+      "friends",
+      "karan"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "outing",
+    "place": "delhi",
+    "year": 2024,
+    "user_age": 26,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend outing in Delhi with friends",
+    "id": "ph_129",
+    "file": "/photos/ph_129.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "outing",
+      "weekend",
+      "delhi",
+      "friends"
+    ],
+    "people": [
+      "self",
+      "friends",
+      "karan"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "outing",
+    "place": "delhi",
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend outing in Delhi with friends",
+    "id": "ph_130",
+    "file": "/photos/ph_130.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "outing",
+      "weekend",
+      "delhi",
+      "friends"
+    ],
+    "people": [
+      "self",
+      "friends",
+      "karan"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "outing",
+    "place": "delhi",
+    "year": 2025,
+    "user_age": 27,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend outing in Delhi with friends",
+    "id": "ph_131",
+    "file": "/photos/ph_131.jpg"
+  },
+  {
+    "type": "memory",
+    "tags": [
+      "outing",
+      "weekend",
+      "delhi",
+      "friends"
+    ],
+    "people": [
+      "self",
+      "friends",
+      "karan"
+    ],
+    "person_count": 3,
+    "composition": "group",
+    "occasion": "outing",
+    "place": "delhi",
+    "year": 2026,
+    "user_age": 28,
+    "source": "camera",
+    "objects": [],
+    "text_in_image": null,
+    "institution": null,
+    "sensory_notes": null,
+    "caption_en": "Weekend outing in Delhi with friends",
+    "id": "ph_132",
+    "file": "/photos/ph_132.jpg"
+  }
+]

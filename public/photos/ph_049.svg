@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#e7e5e4"/>
+  <rect x="30" y="80" width="340" height="120" fill="#44403c"/><text x="200" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#fafaf9">FAMILY MEET</text>
+    <g>
+      
+      <rect x="32.2" y="324.275" width="75.6" height="145.72500000000002" rx="12" fill="#6b7280"/>
+      <circle cx="70" cy="297.5" r="31.5" fill="#c98958"/>
+      <ellipse cx="70" cy="280.175" rx="29.924999999999997" ry="17.325000000000003" fill="#33302c"/>
+      
+      
+      <circle cx="59.92" cy="296.5" r="2.2" fill="#2b211c"/>
+      <circle cx="80.08" cy="296.5" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="100.4" y="317.05" width="79.2" height="152.95" rx="12" fill="#2f8f5b"/>
+      <circle cx="140" cy="289" r="33" fill="#c98958"/>
+      <ellipse cx="140" cy="270.85" rx="31.349999999999998" ry="18.150000000000002" fill="#1a1614"/>
+      <path d="M116.9 293 Q140 326.95 163.1 293" fill="#1a1614"/>
+      
+      <circle cx="129.44" cy="288" r="2.2" fill="#2b211c"/>
+      <circle cx="150.56" cy="288" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="165" y="295.375" width="90" height="174.625" rx="12" fill="#f4ecdc"/>
+      <circle cx="210" cy="263.5" r="37.5" fill="#e2b48a"/>
+      <ellipse cx="210" cy="242.875" rx="35.625" ry="20.625" fill="#8d8680"/>
+      
+      <ellipse cx="210" cy="274" rx="20.625" ry="4" fill="#4a4038"/>
+      <circle cx="198" cy="262.5" r="2.2" fill="#2b211c"/>
+      <circle cx="222" cy="262.5" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="240.4" y="317.05" width="79.2" height="152.95" rx="12" fill="#e07a2f"/>
+      <circle cx="280" cy="289" r="33" fill="#d7a574"/>
+      <path d="M247 285 h66 v14.85 h-79.2 z" fill="#e07a2f"/>
+      
+      
+      <circle cx="269.44" cy="288" r="2.2" fill="#2b211c"/>
+      <circle cx="290.56" cy="288" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="309" y="331.5" width="72" height="138.5" rx="12" fill="#6b7280"/>
+      <circle cx="345" cy="306" r="30" fill="#c98958"/>
+      <ellipse cx="345" cy="289.5" rx="28.5" ry="16.5" fill="#33302c"/>
+      
+      
+      <circle cx="335.4" cy="305" r="2.2" fill="#2b211c"/>
+      <circle cx="354.6" cy="305" r="2.2" fill="#2b211c"/>
+    </g>
+  
+</svg>

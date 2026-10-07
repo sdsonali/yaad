@@ -1,0 +1,44 @@
+{
+  "method": "critical_incident",
+  "n": 4,
+  "segment": "multi-year large Google Photos libraries, topic search, mixed result kinds",
+  "hero_scenario": "coarse life-topic search returns one grid of photos + documents + screenshots",
+  "hero": ["Ritu", "Swati"],
+  "out": ["Rahul", "Akshay"],
+  "killed": [
+    "query formulation as the hero",
+    "date picker as clarifying UI",
+    "father-only People search",
+    "auto-delete unused photos"
+  ],
+  "tasks": [
+    {
+      "id": "Ritu",
+      "remembered": "college photos",
+      "forgotten": ["which tiles are memories vs certificates"],
+      "failure_mode": "type_mix_cannot_evaluate",
+      "workaround": "scroll_past_documents"
+    },
+    {
+      "id": "Swati",
+      "remembered": "personal photos vs documents vs screenshots as separate sequences",
+      "forgotten": ["how to filter kind"],
+      "failure_mode": "undifferentiated_grid",
+      "workaround": "files_app_or_date_browse"
+    },
+    {
+      "id": "Rahul",
+      "in_scope": false,
+      "remembered": "photos of father only",
+      "failure_mode": "people_tab_precision",
+      "why_out": "People-tab problem; brief forbids generic search improvement; do not demo deceased parent"
+    },
+    {
+      "id": "Akshay",
+      "in_scope": false,
+      "remembered": "delete unused photos",
+      "failure_mode": "cleanup_not_retrieval",
+      "why_out": "off retrieval / evaluation metric"
+    }
+  ]
+}

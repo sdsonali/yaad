@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8fafc"/>
+  <rect x="160" y="90" width="80" height="36" rx="6" fill="#94a3b8"/>
+      <rect x="130" y="126" width="140" height="250" rx="24" fill="#bfdbfe" stroke="#0369a1" stroke-width="4"/>
+      <text x="200" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#0f172a">VITAMIN</text>
+      <text x="200" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#0f172a">BOTTLE</text>
+  
+</svg>

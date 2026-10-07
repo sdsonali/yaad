@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#fff7ed"/>
+  <rect x="40" y="80" width="320" height="200" fill="#e0f2fe" stroke="#fff" stroke-width="8"/>
+        <rect x="70" y="330" width="180" height="70" rx="12" fill="#fb923c"/>
+        <circle cx="80" cy="70" r="5" fill="#facc15"/><circle cx="140" cy="70" r="5" fill="#facc15"/><circle cx="200" cy="70" r="5" fill="#facc15"/><circle cx="260" cy="70" r="5" fill="#facc15"/><circle cx="320" cy="70" r="5" fill="#facc15"/>
+        <ellipse cx="300" cy="400" rx="18" ry="8" fill="#fbbf24"/>
+        <text x="200" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#9a3412">NEW HOUSE</text>
+    <g>
+      <path d="M62.040000000000006 319.825 L190.38 325.825 L165.54 470 L49.620000000000005 470 Z" fill="#9c2748"/>
+      <rect x="78.6" y="309.825" width="82.8" height="160.175" rx="12" fill="#f6d3bf"/>
+      <circle cx="120" cy="280.5" r="34.5" fill="#e6ba8e"/>
+      <circle cx="120" cy="251.175" r="18.975" fill="#2a211c"/>
+      
+      
+      <circle cx="108.96" cy="279.5" r="2.2" fill="#2b211c"/>
+      <circle cx="131.04" cy="279.5" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="162.2" y="324.275" width="75.6" height="145.72500000000002" rx="12" fill="#2f5fbf"/>
+      <circle cx="200" cy="297.5" r="31.5" fill="#e8bc90"/>
+      <ellipse cx="200" cy="280.175" rx="29.924999999999997" ry="17.325000000000003" fill="#241c16"/>
+      
+      
+      <circle cx="189.92" cy="296.5" r="2.2" fill="#2b211c"/>
+      <circle cx="210.08" cy="296.5" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="245.8" y="338.725" width="68.39999999999999" height="131.27499999999998" rx="12" fill="#f0c43a"/>
+      <circle cx="280" cy="314.5" r="28.5" fill="#f0c49a"/>
+      <circle cx="305.65" cy="308.8" r="13.68" fill="#2a211c"/>
+      
+      
+      <circle cx="270.88" cy="313.5" r="2.2" fill="#2b211c"/>
+      <circle cx="289.12" cy="313.5" r="2.2" fill="#2b211c"/>
+    </g>
+  
+</svg>

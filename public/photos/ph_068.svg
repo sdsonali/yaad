@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#4c1d95"/>
+  <rect x="36" y="150" width="328" height="64" rx="8" fill="#f5f3ff"/>
+        <text x="200" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#4c1d95">FAREWELL</text>
+    <g>
+      
+      <rect x="106.80000000000001" y="302.6" width="86.39999999999999" height="167.39999999999998" rx="12" fill="#2f5fbf"/>
+      <circle cx="150" cy="272" r="36" fill="#e8bc90"/>
+      <ellipse cx="150" cy="252.2" rx="34.199999999999996" ry="19.8" fill="#241c16"/>
+      
+      
+      <circle cx="138.48" cy="271" r="2.2" fill="#2b211c"/>
+      <circle cx="161.52" cy="271" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="210.4" y="317.05" width="79.2" height="152.95" rx="12" fill="#d4538a"/>
+      <circle cx="250" cy="289" r="33" fill="#e8bc90"/>
+      <path d="M217 289 Q209 359 223 379 L277 379 Q291 359 283 289" fill="#1a1614"/>
+      
+      
+      <circle cx="239.44" cy="288" r="2.2" fill="#2b211c"/>
+      <circle cx="260.56" cy="288" r="2.2" fill="#2b211c"/>
+    </g>
+  
+</svg>

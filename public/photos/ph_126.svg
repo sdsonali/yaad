@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#e2e8f0"/>
+  <rect x="60" y="200" width="280" height="150" fill="#fff" stroke="#94a3b8"/>
+        <rect x="80" y="230" width="100" height="70" fill="#0ea5e9"/><rect x="200" y="250" width="110" height="16" fill="#cbd5e1"/>
+        <text x="200" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#334155">OFFICE</text>
+    <g>
+      
+      <rect x="153.2" y="288.15" width="93.6" height="181.85000000000002" rx="12" fill="#2f5fbf"/>
+      <circle cx="200" cy="255" r="39" fill="#e8bc90"/>
+      <ellipse cx="200" cy="233.55" rx="37.05" ry="21.450000000000003" fill="#241c16"/>
+      
+      
+      <circle cx="187.52" cy="254" r="2.2" fill="#2b211c"/>
+      <circle cx="212.48" cy="254" r="2.2" fill="#2b211c"/>
+    </g>
+  
+</svg>

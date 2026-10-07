@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8fafc"/>
+  <rect x="48" y="150" width="304" height="180" rx="18" fill="#dbe3ea" stroke="#64748b" stroke-width="3"/><rect x="70" y="180" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="124" y="180" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="178" y="180" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="232" y="180" width="42" height="52" rx="16" fill="#e5e7eb" stroke="#94a3b8"/><rect x="286" y="180" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="70" y="250" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="124" y="250" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="178" y="250" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="232" y="250" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/><rect x="286" y="250" width="42" height="52" rx="16" fill="#f8fafc" stroke="#94a3b8"/>
+      <text x="200" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#0f172a">PARACETAMOL 500</text>
+      <text x="200" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#64748b">medicine strip</text>
+  
+</svg>

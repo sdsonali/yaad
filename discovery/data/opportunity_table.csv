@@ -1,0 +1,15 @@
+funnel_stage_failure,memory_type,count,pct,avg_severity
+query_formulation,unclear,71,45.5,2.08
+query_formulation,functional_utility,42,26.9,2.1
+query_formulation,people_anchored,16,10.3,1.81
+query_formulation,temporal_only,6,3.8,2.17
+recall_trigger,unclear,6,3.8,2.0
+recall_trigger,functional_utility,4,2.6,2.0
+visual_evaluation,unclear,2,1.3,1.5
+refinement,unclear,2,1.3,2.0
+visual_evaluation,functional_utility,2,1.3,2.5
+visual_evaluation,temporal_only,1,0.6,2.0
+recall_trigger,people_anchored,1,0.6,1.0
+system_interpretation,unclear,1,0.6,2.0
+recall_trigger,emotional_episodic,1,0.6,2.0
+query_formulation,emotional_episodic,1,0.6,2.0

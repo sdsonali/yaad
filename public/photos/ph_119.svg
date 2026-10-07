@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#f8fafc"/>
+  <rect x="184" y="70" width="32" height="340" rx="16" fill="#e2e8f0" stroke="#64748b" stroke-width="3"/>
+    <rect x="190" y="220" width="20" height="160" rx="8" fill="#ef4444"/>
+    <circle cx="200" cy="60" r="22" fill="#fecaca" stroke="#ef4444" stroke-width="3"/>
+    <text x="200" y="460" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#0f172a">THERMOMETER</text>
+  
+</svg>

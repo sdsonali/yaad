@@ -1,0 +1,58 @@
+{
+  "n": 3,
+  "found": 3,
+  "miss": 0,
+  "tasks": [
+    {
+      "card": "college_photos",
+      "original_query": "College photos \u2014 the memories, not the certificates.",
+      "clarifying_turns": 1,
+      "found_in_top5": true,
+      "top_ids": [
+        "img_050",
+        "img_051",
+        "img_052"
+      ],
+      "kinds_in_top": [
+        "personal"
+      ],
+      "outcome": "success"
+    },
+    {
+      "card": "college_certificate",
+      "original_query": "My college degree certificate I saved for later.",
+      "clarifying_turns": 2,
+      "found_in_top5": true,
+      "top_ids": [
+        "img_053",
+        "img_054",
+        "img_055",
+        "img_039",
+        "img_000"
+      ],
+      "kinds_in_top": [
+        "document"
+      ],
+      "outcome": "success"
+    },
+    {
+      "card": "saved_screenshot",
+      "original_query": "The WiFi password screenshot I saved to use later.",
+      "clarifying_turns": 2,
+      "found_in_top5": true,
+      "top_ids": [
+        "img_006",
+        "img_046",
+        "img_007",
+        "img_008",
+        "img_009"
+      ],
+      "kinds_in_top": [
+        "screenshot"
+      ],
+      "outcome": "success"
+    }
+  ],
+  "what_we_would_change": "Ask the type-mix question only when the first grid mixes kinds; then sequence personal / document / screenshot. Cap remains 2.",
+  "reaction_note": "Evaluation fails when certificates sit in the same pile as college photos. Date fields and delete are the wrong product."
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect width="400" height="520" fill="#fde68a"/>
+  <rect x="0" y="300" width="400" height="80" fill="#38bdf8"/>
+        <polygon points="70,260 200,140 330,260" fill="#a16207"/>
+        <rect x="110" y="260" width="180" height="120" fill="#f5e6c8"/>
+        <text x="200" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#44403c">SHACK</text>
+    <g>
+      
+      <rect x="40.4" y="317.05" width="79.2" height="152.95" rx="12" fill="#2f8f5b"/>
+      <circle cx="80" cy="289" r="33" fill="#c98958"/>
+      <ellipse cx="80" cy="270.85" rx="31.349999999999998" ry="18.150000000000002" fill="#1a1614"/>
+      <path d="M56.900000000000006 293 Q80 326.95 103.1 293" fill="#1a1614"/>
+      
+      <circle cx="69.44" cy="288" r="2.2" fill="#2b211c"/>
+      <circle cx="90.56" cy="288" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="113.6" y="309.825" width="82.8" height="160.175" rx="12" fill="#2f5fbf"/>
+      <circle cx="155" cy="280.5" r="34.5" fill="#e8bc90"/>
+      <ellipse cx="155" cy="261.525" rx="32.775" ry="18.975" fill="#241c16"/>
+      
+      
+      <circle cx="143.96" cy="279.5" r="2.2" fill="#2b211c"/>
+      <circle cx="166.04" cy="279.5" r="2.2" fill="#2b211c"/>
+    </g>
+    <g>
+      
+      <rect x="196.3" y="320.6625" width="77.39999999999999" height="149.33749999999998" rx="12" fill="#d4538a"/>
+      <circle cx="235" cy="293.25" r="32.25" fill="#e8bc90"/>
+      <path d="M202.75 293.25 Q194.75 363.25 208.75 383.25 L261.25 383.25 Q275.25 363.25 267.25 293.25" fill="#1a1614"/>
+      
+      
+      <circle cx="224.68" cy="292.25" r="2.2" fill="#2b211c"/>
+      <circle cx="245.32" cy="292.25" r="2.2" fill="#2b211c"/>
+    </g>
+  
+</svg>

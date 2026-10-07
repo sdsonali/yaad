@@ -1,0 +1,2528 @@
+{
+  "tag_schema_version": 3,
+  "reviews": [
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "low",
+      "verbatim_quote_summary": "The app is so nice as far..I even purchased storage..but it would be nice if we get the option to enlist faces manually as well because sometimes it doesn't automatically recognise",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 0,
+      "text": "The app is so nice as far..I even purchased storage..but it would be nice if we get the option to enlist faces manually as well because sometimes it doesn't automatically recognise faces of the photo taken either from back , side or in dim light . hence if we can manually add face it would be easier for us to find out photos based on face 🤌",
+      "date": "2026-08-30"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Excellent Photo Management App! Google Photos is one of the most useful apps for safely storing, organizing, and accessing photos and videos. The automatic backup, powerful search,",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 1,
+      "text": "Excellent Photo Management App! Google Photos is one of the most useful apps for safely storing, organizing, and accessing photos and videos. The automatic backup, powerful search, easy sharing, and smart organization features make it extremely convenient. I especially like how easily I can find old photos and memories by date, location, or people. Simple, reliable, and very user-friendly. Highly recommended! 👍📸",
+      "date": "2026-08-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "visual_evaluation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Good for photo storage and searching, but it sends too many memories/themed notifications each day and there isn't an option to fine-tune this other than to disable them. I like th",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 2,
+      "text": "Good for photo storage and searching, but it sends too many memories/themed notifications each day and there isn't an option to fine-tune this other than to disable them. I like the occasional one to look back on but the current rate is pestering. Similarly, there's a pop-up (I think about AI editing of something? I dismiss it because I want to 👏 look 👏 at 👏 my 👏 photos when I open the app) that holds up using the app for what it's for. it's gotten pretty irritating to use.",
+      "date": "2026-04-21"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "AI search is slower, less accurate, and more presumptuous than the version we had before. When AI search first came out, we even had a choice between the two, no longer. It's force",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 3,
+      "text": "AI search is slower, less accurate, and more presumptuous than the version we had before. When AI search first came out, we even had a choice between the two, no longer. It's forced AI that interests the companies' surveillance more than the customers' choice, and I'll be switching to another storage provider as soon as possible. For work, I'd look up \"maps\" to pull up maps of locations I service, but the AI assumes I want Google Maps or \"map view\" and takes over my phone's control to switch.",
+      "date": "2026-04-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "Their is a lot to like about the photo app. the editing tools are great and very easy to use. The new AI edits are quite impressive. However, facial recognition! This used to work ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 4,
+      "text": "Their is a lot to like about the photo app. the editing tools are great and very easy to use. The new AI edits are quite impressive. However, facial recognition! This used to work well but has become a complete mess recently to the point it's useless to even try and search by name. Random people in backgrounds are being assigned key family members. It ignores 50% of the people clearly in the foreground. And there is no way to manually assign people to help fix errors, Apart from remove photo.",
+      "date": "2025-06-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Used to be a good, March update ruined it. Moved all the editing options. onto different categories, no makes little sense. won't let you re-edit a photo you've already edited. ins",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 5,
+      "text": "Used to be a good, March update ruined it. Moved all the editing options. onto different categories, no makes little sense. won't let you re-edit a photo you've already edited. instead makes you revert to original and do all the work again if you want to re-crop or similar. once you then save a copy that becomes almost impossible to find. doesn't get out next to the original or at the top of the gallery like before. only found mine in recently added, which obviously, they are not, Just edited.",
+      "date": "2026-03-07"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "I've been thinking about writing a review since the change in the way I can edit my own photos, but I thought it'd be fine. It's not. This sucks. Google lens is no longer in the su",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 6,
+      "text": "I've been thinking about writing a review since the change in the way I can edit my own photos, but I thought it'd be fine. It's not. This sucks. Google lens is no longer in the suggested actions at the bottom, instead you have to tap on the three dots in the upper right corner, which is just unnecessary and annoying. The editor is actually trash now, like I'd rather download an extra app to edit/crop my pics and everytime I want to look through my albums it opens the search function.",
+      "date": "2025-10-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "low",
+      "verbatim_quote_summary": "I HATE the new organization of Collections. Now I have to click through multiple menus to find my folders, it takes longer and I don't want or need it. I also wish I could default ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 7,
+      "text": "I HATE the new organization of Collections. Now I have to click through multiple menus to find my folders, it takes longer and I don't want or need it. I also wish I could default to open on my Device folders which is what I use the most. I do not care about Memories. I hate the pop-ups that constantly ask me to back up my photos (which I do not want to do). This app gets worse and worse with every update. At least allow us to customize our default view! Please!!",
+      "date": "2024-12-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "This app is practically unusable anymore. The search engine doesn't ever freaking work when trying to find a specific photo, Even on Wi-Fi the page loads slow when trying to find a",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 8,
+      "text": "This app is practically unusable anymore. The search engine doesn't ever freaking work when trying to find a specific photo, Even on Wi-Fi the page loads slow when trying to find a picture(Or doesn't load at all), It still doesn't have an option to where it can just save all of your photos/videos into albums without having to manually create them again. I'm only giving this 2 stars because it's one of the only ways that I know to backup my device photos without having to use a PC.",
+      "date": "2025-10-15"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Service has steadily declined for years now. Lots of features just completely don't work, for example saving a new frame from a motion photo. They removed the ability to search you",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 9,
+      "text": "Service has steadily declined for years now. Lots of features just completely don't work, for example saving a new frame from a motion photo. They removed the ability to search your photos if they aren't backed up. The cherry on top is recently they added an effect to your memories so that a large number comes in and shows you how many years it's been, unfortunately this new effect has ruined to quality of every single photo it shows. I really don't know how some of this leaves beta.",
+      "date": "2026-02-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "low",
+      "verbatim_quote_summary": "the new update makes zero sense, I likes it where I was able to just watch all my albums in one go, instead now it's all folder inside of folder?! I have bad memory and can't alway",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 10,
+      "text": "the new update makes zero sense, I likes it where I was able to just watch all my albums in one go, instead now it's all folder inside of folder?! I have bad memory and can't always remember if I've backed up a photo already, or if it's still on my device, not to mention now there's a pets and people tab, which you'd think would be nice, but no! I get constant reminders of people I don't want to see anymore with photos I thought were gone! thanks a lot Google, and not in a nice way!",
+      "date": "2024-08-19"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "visual_evaluation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "low",
+      "verbatim_quote_summary": "this app used to be perfect, but the quality has gone downhill. the new ai search rarely finds the photos i want in comparison to the old search where i'd find my photos every time",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 11,
+      "text": "this app used to be perfect, but the quality has gone downhill. the new ai search rarely finds the photos i want in comparison to the old search where i'd find my photos every time. there's also a recent bug where adding photos to an album sometimes creates duplicates, and they are really hard to get rid of. it seems to be related to a delay when pressing the button to add a collection of photos, sometimes this hangs for like 10 seconds and i think if i press it twice i get duplicates.",
+      "date": "2025-09-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "low",
+      "verbatim_quote_summary": "They added search to the Add To Album popup! Someone *is* reading all those feedbacks I send!!! Easy backup of photos and videos. Nice interface for browsing photos and videos. Som",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 12,
+      "text": "They added search to the Add To Album popup! Someone *is* reading all those feedbacks I send!!! Easy backup of photos and videos. Nice interface for browsing photos and videos. Sometimes fails or errors out, but not too bad. Video creator is mostly automatic but I like the amount of tweaking it provides (adjusting music, filter, and titles).",
+      "date": "2025-06-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Loved Google Photos. Always demonstrating to people how easy it was to find a photo i.e. 'Dog in a hat'. Now the search has changed to AI and it's terrible. Even changing to classi",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 13,
+      "text": "Loved Google Photos. Always demonstrating to people how easy it was to find a photo i.e. 'Dog in a hat'. Now the search has changed to AI and it's terrible. Even changing to classic, the same search will show your photo briefly, then change to 'Nothing found' or a huge list of random garbage. I cannot search anything. So sad. I have thousands of photos in storage. Google was my end all, be all.",
+      "date": "2025-02-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "low",
+      "verbatim_quote_summary": "Change is sometimes difficult. Finding specific photos varies between easy and challenging, depending on both Google's and your interpretation of search words. The latest changes h",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 14,
+      "text": "Change is sometimes difficult. Finding specific photos varies between easy and challenging, depending on both Google's and your interpretation of search words. The latest changes have made it more difficult to find photos by people's names.. Those albums have disappeared from easy view; you have to figure out how to find them.",
+      "date": "2024-09-30"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "low",
+      "verbatim_quote_summary": "I would very much appreciate it if the out of storage display (for backed up documents) would stop appearing. My photos are automatically backup without my say so. I'm not interest",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 15,
+      "text": "I would very much appreciate it if the out of storage display (for backed up documents) would stop appearing. My photos are automatically backup without my say so. I'm not interested in having most of my docs backed up. I back them up myself. It would be nice if the user can decide what to have backed up. I'm not interested in paying for more backup storage. I would give five stars if I didn't have that problem. It can be very annoying.",
+      "date": "2025-01-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google Photos is one of the best apps for storing and organizing photos. It automatically backs up your images, offers powerful search features, and groups faces and places accurat",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 16,
+      "text": "Google Photos is one of the best apps for storing and organizing photos. It automatically backs up your images, offers powerful search features, and groups faces and places accurately. The editing tools are simple yet effective. The cloud storage helps free up space on your phone. Some features now require a subscription, but overall it’s a reliable and smart photo management app.",
+      "date": "2025-07-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Used to love Google Photos, especially the Perspective tool that let me fix slanted angles and straighten lines. Now it's gone with the new update, and there's no substitute. Pleas",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 17,
+      "text": "Used to love Google Photos, especially the Perspective tool that let me fix slanted angles and straighten lines. Now it's gone with the new update, and there's no substitute. Please bring it back. This was essential for editing architecture, scanned documents, and travel photos. Until then, 2 stars.",
+      "date": "2025-08-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I would give this 5 stars for being easy to use and easy to find my pictures, but it keeps insisting on backing up to the cloud. It seems like every other week it asks me if I want",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 18,
+      "text": "I would give this 5 stars for being easy to use and easy to find my pictures, but it keeps insisting on backing up to the cloud. It seems like every other week it asks me if I want to turn on backup, even though I have repeatedly said no previously, and it defaults to yes, making it easy to accidentally turn backup on and filling up my Google account, as keeps happening with my mom.",
+      "date": "2025-02-13"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "My favorites on my Motorola keep getting removed from that folder for no reason! This is the second time it has happened and as an artist, i use the favorites folder to save my ref",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 19,
+      "text": "My favorites on my Motorola keep getting removed from that folder for no reason! This is the second time it has happened and as an artist, i use the favorites folder to save my references from my screenshots as a shortcut. It's irritating everytime it happens because then i have to spend an hour diving into the ocean of my almost 4k screenshots to find the reference im looking for. Fix it!!! PS: Please make it to where i can create my own folders, and stop trying to force me to turn on backup!!",
+      "date": "2024-10-26"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "approximate_time",
+        "visual_appearance"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Poor usability. Can't select a bunch of photos to move them to an album AND archive at same time. (Photos have to be reselected for subsequent actions.) App insists on labelling my",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 20,
+      "text": "Poor usability. Can't select a bunch of photos to move them to an album AND archive at same time. (Photos have to be reselected for subsequent actions.) App insists on labelling my dog as one that died 15 years ago despite them being different colours. Basic editing options such as cropping and straightening are not as quick to access as they should be. Search terms and results are biased towards North American norms.",
+      "date": "2025-07-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "device_used",
+        "visual_appearance"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Within the past couple weeks, I'm unable to use search - all searches return no results. App no longer grabs search terms from the 'commenting' area where I label important photos ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 21,
+      "text": "Within the past couple weeks, I'm unable to use search - all searches return no results. App no longer grabs search terms from the 'commenting' area where I label important photos or screenshots from the past. I've tried force stop, reboot, update, clear cache - no change. Concerned that clear data or uninstalling will cause photo losses. Can anyone please give me my next SAFE steps to resolve this? Thank you.",
+      "date": "2024-09-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "I went into the app looking for something to send my sister only to discover that it's missing. Just before that I had asked the app to back up my photos to clear up space and it s",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 22,
+      "text": "I went into the app looking for something to send my sister only to discover that it's missing. Just before that I had asked the app to back up my photos to clear up space and it seems a handful had been erased entirely. I'm pretty irritated and now I'm wondering if this is a one time error or how often this happened previously and I never noticed before. I tried all the stuff the \"help\" section suggestions and nothing. Can't find those images or an explanation.",
+      "date": "2025-02-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "You ruined a perfectly great app with your recent 2 updates. Collections? They're albums. Memories (here) useless. I don't need the reminders. You keep trying to find ways to force",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 23,
+      "text": "You ruined a perfectly great app with your recent 2 updates. Collections? They're albums. Memories (here) useless. I don't need the reminders. You keep trying to find ways to force location and place identification. The 'on this device' ridiculous as all are ON this device. Stop the infinitely micro management.",
+      "date": "2024-08-31"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Can we stop adding unnecessary features no one asked for??? I just noticed there are \"Automatic albums\" where it also allows you to archive photos after 30 days, while it may be us",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 24,
+      "text": "Can we stop adding unnecessary features no one asked for??? I just noticed there are \"Automatic albums\" where it also allows you to archive photos after 30 days, while it may be useful in some aspects, it's completely useless. The automatic sorting isn't even correct 90% of the time. I DON'T WANT my photos to be sorted like that in unnecessary albums named \"Documents\". If you really want to keep this feature, at least make it so we can choose to have it or not!!",
+      "date": "2026-09-07"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Photos used to be the perfect photos app. it had the best search funding of any app. I used to race iphone users to see how far we could find the same photo and I always won. Now t",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 25,
+      "text": "Photos used to be the perfect photos app. it had the best search funding of any app. I used to race iphone users to see how far we could find the same photo and I always won. Now this near perfect search function has been replaced by AI, which not only doesn't return the photos I'm looking for, it actually acts as a stumbling block to me finding them. It's slow and inefficient. Another perfectly good tool ruined in the name of trying to convince us that AI is inevitable.",
+      "date": "2026-09-03"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "approximate_time"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Not intuitive for digital art, which most of my pictures are. The Memories and Face Recognition and such only pay attention to the (very few) actual photos and thus are not helpful",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 26,
+      "text": "Not intuitive for digital art, which most of my pictures are. The Memories and Face Recognition and such only pay attention to the (very few) actual photos and thus are not helpful. AI tools are trash. If this app wasn't conveniently synced to my Google account I would uninstall and find something else. Also, make the \"folders\" button easier to get to, and then STOP MOVING IT AROUND! And stop rearranging the order of the *comic panels* in my *album*.",
+      "date": "2026-09-16"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "approximate_time",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I have issues uploading pics to an app, if I edit the image at all (for example, I'll take a pic and my phone likes to rotate it the wrong way) I'll rotate the image upright, but i",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 27,
+      "text": "I have issues uploading pics to an app, if I edit the image at all (for example, I'll take a pic and my phone likes to rotate it the wrong way) I'll rotate the image upright, but if I do that, it wont upload to the app I use for work. My workaround has been to screenshot that image, then for whatever reason, it doesn't care that I edit THAT image. I can crop, mark-up, etc and it'll upload at that point. App is Service Titan (Field).",
+      "date": "2026-09-16"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "refinement",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Fix Google Photos, PLZZZZ! It used to be my favorite, GO TO for photos until a few weeks ago. I'm an artist, photographer, and major ADHD - I have come to rely on GP so much it's a",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 28,
+      "text": "Fix Google Photos, PLZZZZ! It used to be my favorite, GO TO for photos until a few weeks ago. I'm an artist, photographer, and major ADHD - I have come to rely on GP so much it's almost 2nd skin, and saved me so much time & hassle.Now, I can't even find all of my photos, albums, etc. Most 🤬 is not being able to just pull up a photo and attach or insert anywhere. Just spent over 1 hr trying to find a photo I had taken of an order that the seller asked for me to upload a pic. (Still can't)",
+      "date": "2026-08-22"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "who_was_present",
+        "what_it_was_for"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "This app continues to get enshitified. In 2026 I thought I could send an album to Google photos without any issues but that's not supported. Instead, I selected each individual ima",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 29,
+      "text": "This app continues to get enshitified. In 2026 I thought I could send an album to Google photos without any issues but that's not supported. Instead, I selected each individual image and uploaded them thinking they'd be easy to find under recently uploaded. They were not. They were mixed in with my thousands of other pictures, which I'm obviously not going to look through. I'm just going to use another platform to make an album in the cloud. Crazy Google photos can no longer do that with ease.",
+      "date": "2026-08-20"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "The latest forced update has totally ruined the interface and usability. I pay for additional storage and have over 20,000 photos stored, and have always been able to set all thumb",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 30,
+      "text": "The latest forced update has totally ruined the interface and usability. I pay for additional storage and have over 20,000 photos stored, and have always been able to set all thumbnails the same size which is essential to be able to scroll through lots of photos. Now every few rows there is a random photo 6 times the size of the rest. This change is pointless and makes it much harder to find the photo I want. I may need to find another app and pay for storage elsewhere",
+      "date": "2026-07-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "In the more section of the app, I can no longer send, print, email, etc. I have tried everything. Every time i download photos from google messages, it doesn't go in the same day I",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 31,
+      "text": "In the more section of the app, I can no longer send, print, email, etc. I have tried everything. Every time i download photos from google messages, it doesn't go in the same day I downloaded it. It downloads whatever month or year they took the photo, which is annoying. It takes take me forever to find it. Every update it gets worse. Are you listening to what people are telling you. Stop sending us links to try to fix the problem you caused. That's what you get paid for.",
+      "date": "2026-07-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "approximate_time"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Every update the app gets worse and worse. The options less and less. And AI slop more and more. I can no longer assign faces, the primary reason I enjoyed the app. Oh but I can st",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 32,
+      "text": "Every update the app gets worse and worse. The options less and less. And AI slop more and more. I can no longer assign faces, the primary reason I enjoyed the app. Oh but I can steal art styles from hard working artists and make a lifeless recreation of an important moment. Gee. Thanks. -_- --- I wish I had the option to delete the photos in the archive suggestions rather than have to dig around and find them and delete them. I also wish there was a way to delete duplicate images.",
+      "date": "2026-08-04"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Baffling UI choices continue. Want to easily find a photo from a certain date using easy visuals? Tough. It's now a homogeneous mess that just dumps all your photos together with n",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 33,
+      "text": "Baffling UI choices continue. Want to easily find a photo from a certain date using easy visuals? Tough. It's now a homogeneous mess that just dumps all your photos together with no separation. It gives a vague date at the top, but you might have three photos in a row from two different days. Don't worry, that doesn't matter because now photos uses ✨AI✨ because of course it does.",
+      "date": "2026-07-19"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Just Terrible for the Users. No adjustments can be made for my convenience. It's the Apps way or No Way! can't delete from Google storage from the app, and just a crazy incomprehen",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 34,
+      "text": "Just Terrible for the Users. No adjustments can be made for my convenience. It's the Apps way or No Way! can't delete from Google storage from the app, and just a crazy incomprehensible organization of photos and videos. This is what happens in Monopolies. They only care about franchising your data, not catering to your needs. ask yourself, when was the last time this app made finding my pics easier without paying a privacy price? Never is my answer.",
+      "date": "2026-08-19"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "low",
+      "verbatim_quote_summary": "I'm so flipping frustrated, every time I take a photo a little too similar to the last one or hold down the button, it stacks them. And every time I look for a button to unstack it",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 35,
+      "text": "I'm so flipping frustrated, every time I take a photo a little too similar to the last one or hold down the button, it stacks them. And every time I look for a button to unstack it, I can either never find it or it doesn't exist. it takes up so much storage; Please fix this, I press every button on that photo, and even the stack itself and I can't fix it. Also, I just don't want the usage of ai on a photo app, it's unnecessary and I wish I could disable it.",
+      "date": "2026-08-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Comparing to Flickr the upload and organization feature is better. Loved the mini AI tool - the Assistant of suggesting artifacts. Liked the app and love to have more better UX in ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 36,
+      "text": "Comparing to Flickr the upload and organization feature is better. Loved the mini AI tool - the Assistant of suggesting artifacts. Liked the app and love to have more better UX in next releases, though it's still a good one. +1 BTW, would love to have the feature: Local photo vs. Synced photo filter will let us easily distinguish the non-synced items, instead searching through all the mess.",
+      "date": "2026-09-19"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "high",
+      "verbatim_quote_summary": "The photos aren't lost, they are 6 yr old photos that are present in the Google Photos Cloud. I restored them to a phone so I may edit them and use them. Restored images are sittin",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 37,
+      "text": "The photos aren't lost, they are 6 yr old photos that are present in the Google Photos Cloud. I restored them to a phone so I may edit them and use them. Restored images are sitting on their original calendar dates instead of the top. How can you expect anyone using a photo editing app or other app to spend time scrolling through 2026 to 2020 images when they have a lot of images? It never used to be like this. Your links are not relevant to the issue. Something changed on the backend. Thanks",
+      "date": "2026-09-07"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Photos is forcing AI generated \"creations\" that use your photos. If you want to use the image search and ask questions about pictures, you have to have this enabled. There is no wa",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 38,
+      "text": "Photos is forcing AI generated \"creations\" that use your photos. If you want to use the image search and ask questions about pictures, you have to have this enabled. There is no way to disable it. I have turned everything off except the AI itself so I can still image search, but it is analyzing my photos without me telling it to. And it's generating extremely ugly AI images and pinning them at the top of my gallery in giant tiles that can't be hidden... Yet another awful addition in a long line.",
+      "date": "2026-07-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Another Google app that's becoming more and more infuriatingly unusable by the day. I love the Gemini app itself and I pay an additional fee for it, but when integrated into other ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 39,
+      "text": "Another Google app that's becoming more and more infuriatingly unusable by the day. I love the Gemini app itself and I pay an additional fee for it, but when integrated into other Google Apps such as photos it just plain sucks. 😢 in particular search functions now terrible I can't find any photos of looking for and most of the time the deletion and creation of new photos are impossible to sync up between my iPad and my Google pixel phone. integrating Gemini into so many apps so fast seems to",
+      "date": "2026-09-13"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Changes in app aren't reflected in Google photos on desktop. I only used the app because I can't see stacks of photos in the browser version. I thought this would be a good way to ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 40,
+      "text": "Changes in app aren't reflected in Google photos on desktop. I only used the app because I can't see stacks of photos in the browser version. I thought this would be a good way to find and remove duplicate photos, since Google still does not have a duplicate removal tool. (I assume that this is because they want us to waste space in our accounts, so we have to pay for it.) After using the app on my Chromebook, I was disgusted to find that none of the photos I'd removed had actually been deleted.",
+      "date": "2026-08-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I'm a long time, heavy user of Google Photos & an Alphabet stockholder. Until yesterday Photos took <1 second to delete photos. Last night I downloaded the latest update. Now it ta",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 41,
+      "text": "I'm a long time, heavy user of Google Photos & an Alphabet stockholder. Until yesterday Photos took <1 second to delete photos. Last night I downloaded the latest update. Now it takes 20 seconds per photo. Will Google ever learn to not screw up something that is working perfectly well, i.e. your Search! IF IT AIN'T BROKEN, DON'T \"FIX\" IT. What is wrong with y'all??",
+      "date": "2026-09-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "It's mostly good but some photos don't have my face highlighted or those of other ppl. There's no way to manually add a face so when I go to look up pictures of myself for sharing,",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 42,
+      "text": "It's mostly good but some photos don't have my face highlighted or those of other ppl. There's no way to manually add a face so when I go to look up pictures of myself for sharing, etc. those photos aren't available and I have to scroll to find them if I don't know the date. Very inconvenient. Pleeeeeease add a manual face adding option.",
+      "date": "2026-07-20"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "The last time I was facing an issue where the \"Places\" folder in the collections tab would vanish from the app a few seconds after opening Google Photos. A new update has fixed tha",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 43,
+      "text": "The last time I was facing an issue where the \"Places\" folder in the collections tab would vanish from the app a few seconds after opening Google Photos. A new update has fixed that but has now broken another. It's now the \"Documents\" folder in the collections tab that keeps disappearing a few seconds after. I have never experienced issues with either the pixel or the Google photos app. It's so frustrating with no solution in sight that I might be forced to switch off to some other brand.",
+      "date": "2026-07-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I only find one thing annoying, and that's the day/time arrangement. Let me explain: For instance, I downloaded a pic at 12:55am on the 27th of July. Then I go to Photos and find i",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 44,
+      "text": "I only find one thing annoying, and that's the day/time arrangement. Let me explain: For instance, I downloaded a pic at 12:55am on the 27th of July. Then I go to Photos and find it saved all the way in 5:32pm on the 5th of May, 2012. I updated the app hoping that this problem will be fixed, but it got worse. Please find a way to sort out this issue, it's really a piece of work to deal with.",
+      "date": "2026-07-27"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "system_interpretation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present",
+        "visual_appearance"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Search doesn't work like it used to, so it kind of makes this app worthless to me! With nearly 60k photos I can no longer search for SOME family and friends names in label descript",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 45,
+      "text": "Search doesn't work like it used to, so it kind of makes this app worthless to me! With nearly 60k photos I can no longer search for SOME family and friends names in label descriptions I've make over many years, very frustrating. I've contaced google and they cannot find a resolution! Oh, and also something new, the app actually erases what I type on the description! I have to remember to copy text so I can cut and paste, or I have to retype everything!",
+      "date": "2026-08-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "love it! Google Photos has been my go to for as long as I can remember! it's got many new overhauls and totally cool additions such as AI, although AI can definitely flub some phot",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 46,
+      "text": "love it! Google Photos has been my go to for as long as I can remember! it's got many new overhauls and totally cool additions such as AI, although AI can definitely flub some photos or assignments 😂 but for the most part it's great and free but once you get to a certain amount of photos like me.... you need to start paying monthly for storage it's really not that much thank God .. plus they have sharing and albums and they will make memories! and we can share comment and keep forever! love it",
+      "date": "2026-08-21"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Where are my missing album pictures that I uploaded from my Galaxy phone !Still missing!!! Also all the pictures I purchased from you in your photo book Gone! Titled albums do me n",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 47,
+      "text": "Where are my missing album pictures that I uploaded from my Galaxy phone !Still missing!!! Also all the pictures I purchased from you in your photo book Gone! Titled albums do me no good when my pictures I had in them are missing!! Hope they find my photos or I will never use this again! It's been months now !",
+      "date": "2026-09-18"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "6 years of photos and videos were completely removed after the recent update. There is no help to retrieve these files. And from what I see in other reviews, you guys don't care to",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 48,
+      "text": "6 years of photos and videos were completely removed after the recent update. There is no help to retrieve these files. And from what I see in other reviews, you guys don't care to make a proper remedy for this issue Update: I just got a response with absolutely useless links. \"Thanks\" for the half baked effort tho",
+      "date": "2026-08-31"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "who_was_present",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Something annoying happened in the recent version! I usually edit pictures and send them to friends. Now, after I edit them, although I see them in the gallery, when I try to choos",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 49,
+      "text": "Something annoying happened in the recent version! I usually edit pictures and send them to friends. Now, after I edit them, although I see them in the gallery, when I try to choose from FB or Whatsapp - I can't find the edited ones at all! I tried to search in different folders - nothing... Update after the developer's replay: I waited enough time, the photos didn't appear in my gallery till now (after a week!) And even more - I see them in the gallery on my old Pixel 3",
+      "date": "2026-09-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "The App Was Good For Sending GIF And Photos In Games, But Forbids Me From Sending Any GIF to certain games I have currently, which currently they are not inappropriate, there been ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 50,
+      "text": "The App Was Good For Sending GIF And Photos In Games, But Forbids Me From Sending Any GIF to certain games I have currently, which currently they are not inappropriate, there been updates with that and to the fact that it not letting me send any GIF in Games. Every Time I Find A New App To Replace It, It Still Shows The Same Exact Thing. The Protection and Sending was good for once, but the GIF Part Needs Fixing In Certain Games. Overall I Give It 3.2 Stars, Because it needs fixing but good.",
+      "date": "2026-09-06"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking for, things are no l",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 51,
+      "text": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking for, things are no longer grouped by date, some photos dont show up at all in the main grid and now i have to dig in collections to find them, theres so many more issues too. the app worked amazingly before this update, I will look into downloading an older version and recommend others do the same or avoid updating if you havent yet",
+      "date": "2026-09-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google Photos is an excellent app for storing, organizing, and backing up photos and videos. The search and automatic organization features are very useful, and it makes finding ol",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 52,
+      "text": "Google Photos is an excellent app for storing, organizing, and backing up photos and videos. The search and automatic organization features are very useful, and it makes finding old memories easy. Overall, a simple, reliable, and user-friendly photo storage app. Highly recommended! 📸✨",
+      "date": "2026-08-27"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "It's terrible, it backs the pics up before I get a chance to edit them, then I can't find then again to save my storage space. Worst app ever, shame on you google. Thanks for the a",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 53,
+      "text": "It's terrible, it backs the pics up before I get a chance to edit them, then I can't find then again to save my storage space. Worst app ever, shame on you google. Thanks for the advice on how to use the product correctly . I still have trouble, I just don't whinge about it so openly, anymore.",
+      "date": "2026-09-07"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Please bring back the face tracking/auto-zoom feature in Google Photos! On my Pixel 6, I could select a subject’s face in a video, and Google Photos would automatically zoom in and",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 54,
+      "text": "Please bring back the face tracking/auto-zoom feature in Google Photos! On my Pixel 6, I could select a subject’s face in a video, and Google Photos would automatically zoom in and follow the face throughout a selected part of the video. I’m now using a Pixel 8 Pro, and I can’t find this feature anymore. It was incredibly useful. Please bring it back!",
+      "date": "2026-09-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "used to be great photo program. now garbage. other friends also saying same thing. even tried uninstalling and reinstalling. now wants access to everything and ability control phon",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 55,
+      "text": "used to be great photo program. now garbage. other friends also saying same thing. even tried uninstalling and reinstalling. now wants access to everything and ability control phone settings. for what? this is a photo and edit program. software inclusions of eraser ,unblur and others aweaome features used to work great... now get circle of death and nothing adjusts. as usual companies screw with the programs software and make a program complete garbage. wll find something else to use",
+      "date": "2026-09-04"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "app never wants to open all I see when I open it ,is Google organizes your photos by face i dont want that it wont show me my photos i have to close the app reopen and hope this ti",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 56,
+      "text": "app never wants to open all I see when I open it ,is Google organizes your photos by face i dont want that it wont show me my photos i have to close the app reopen and hope this time i can see them plus tons of photos missing that were there before now. it's just a white square where MY PHOTO was now i have to go through thier recovery steps to find something they lost plus 15g of storage shared across different Google platforms. Photos storage should be for photos, not photos and drive,and",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 57,
+      "text": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took pictures of my mom not along after she passed. She was very ill and the pictures were her at her worst. I was shocked the app used the pictures and, without my permission, put together a slide show. It was painful to see. Perhaps there is a way to shut off this feature, but I can't find it. Not a fan of this app",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "MY PHOTOS ARE MISSING!!!! My old photos that were backed up and I could see earlier are missing now. I was deleting some of the old photos and realised a huge chunk of my old photo",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 58,
+      "text": "MY PHOTOS ARE MISSING!!!! My old photos that were backed up and I could see earlier are missing now. I was deleting some of the old photos and realised a huge chunk of my old photos are missing. I don't know how to find them, there were some important, memorable photos in there and now they're gone. What am I supposed to do now? I want my old photos back.",
+      "date": "2026-09-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "Whenever I open the Videos section in Google Photos, the thumbnails are automatically zoomed in. This happens every time, forcing me to manually zoom out before I can comfortably b",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 59,
+      "text": "Whenever I open the Videos section in Google Photos, the thumbnails are automatically zoomed in. This happens every time, forcing me to manually zoom out before I can comfortably browse my videos. It’s quite inconvenient. Please fix this issue so the Videos section opens at the normal/default zoom level or remembers the user's preferred zoom setting. Thank you!",
+      "date": "2026-09-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Ongoing issue for some time now. It fails to recognise pets in a lot of photos. If I type in search bar \"dogs\", those pet photos appear, however if I just go through People and Pet",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 60,
+      "text": "Ongoing issue for some time now. It fails to recognise pets in a lot of photos. If I type in search bar \"dogs\", those pet photos appear, however if I just go through People and Pets, photos do not appear despite turning on the pets function. It recognises some but not others... edit: face groups was turned on and still not working..",
+      "date": "2026-08-31"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location",
+        "who_was_present",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "low",
+      "verbatim_quote_summary": "I wish this app was more like Amazon Photos where I can select click on groups of photos and add them to Folders. Now you can only click on them individually which is extremely TED",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 61,
+      "text": "I wish this app was more like Amazon Photos where I can select click on groups of photos and add them to Folders. Now you can only click on them individually which is extremely TEDIOUS. Also, I hate that any photos I delete from this app also deletes them from my phone and there is no way to retrieve them!!! I accidentally deleted loads of precious family and travel photos from my phone before I realized this. NOT happy.",
+      "date": "2026-09-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "I like Google photos but the mobile app is a bit of a cluster compared to the more straightforward, less clustered desktop/PC version. Also, is there a reliable way for duplicate i",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 62,
+      "text": "I like Google photos but the mobile app is a bit of a cluster compared to the more straightforward, less clustered desktop/PC version. Also, is there a reliable way for duplicate images to be axed without having to manually check to make sure you're not deleting both? I'm talking for like 100s+ of pictures. Thanks! edit 8/28/26, why are my photos not showing up in the big main page? Only some are, the rest are on Recently Added. Having to go dig for my most recent screenshots is nuts",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "AVOID USING AT ALL COST!!! FIND A DIFFERENT PROGRAM AT ALL COST!! they have removed the ability to create albums on your own phone. they store somewhere else, and it tricks you int",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 63,
+      "text": "AVOID USING AT ALL COST!!! FIND A DIFFERENT PROGRAM AT ALL COST!! they have removed the ability to create albums on your own phone. they store somewhere else, and it tricks you into thinking they are on your own phone. they were notified of this problem and just don't care... they would get zero stars if it was possible.",
+      "date": "2026-09-03"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "visual_appearance"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "the app is actually good. you can do a lot of things to edit photos or videos, the search bar and the app automatically selects photos of different people and store in one place. m",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 64,
+      "text": "the app is actually good. you can do a lot of things to edit photos or videos, the search bar and the app automatically selects photos of different people and store in one place. my problem is the need for data/wifi connection to access/view the photos and videos, also the very small storage is very annoying to deal with I cant upload my stuff and most of my files can't be deleted. pls it add at least 5 more GB of free storage but overall the app is great",
+      "date": "2026-09-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "the app is great but i just wanted to suggest to add a feature where you can see the loading progress of the images and videos getting uploaded because i'm having a hard time findi",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 65,
+      "text": "the app is great but i just wanted to suggest to add a feature where you can see the loading progress of the images and videos getting uploaded because i'm having a hard time finding what is already uploaded and not and also can you add a feature to see all that is uploaded and ehat is not because all of it is fused together with uploaded and not it's soo confusing that way so please can you make it more easy to distinguish just want to make a great experience thanks but overall the app is good",
+      "date": "2026-09-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "When the Screenshots folder is opened it displays ‘photos missing from search Turn on backup’ message. All taken screenshots now appear in the Camera folder instead. I don’t use ‘b",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 66,
+      "text": "When the Screenshots folder is opened it displays ‘photos missing from search Turn on backup’ message. All taken screenshots now appear in the Camera folder instead. I don’t use ‘backup’ & don’t want to, I use other methods that do not utilize search. This is frustrating and annoying.",
+      "date": "2026-08-25"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Specifically purchased the type of phone I have for this photos app. For years I have been thrilled. However, with AI (just like Gmail app now) I'm exhausted, frustrated, and disap",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 67,
+      "text": "Specifically purchased the type of phone I have for this photos app. For years I have been thrilled. However, with AI (just like Gmail app now) I'm exhausted, frustrated, and disappointed. SO much time I wasted finding a simple photo (or not). I despise AI integrations in the apps. It used to be that I could bypass it. I appreciated that. CANNOT any longer. What good is the app (and especially AI) if I can't find photos I know exist (and used to be able to find) using basic search terms.",
+      "date": "2026-08-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "what_it_was_for",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "now what the heck happened again I left a review saying how the edit button was missing on the videos, 2 Days later the edit button was back on and I edited my post and give you gu",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 68,
+      "text": "now what the heck happened again I left a review saying how the edit button was missing on the videos, 2 Days later the edit button was back on and I edited my post and give you guys a core stars and now all of a sudden I go on my phone today and the edit buttons gone again for the videos 🙄😠 what is going on end I can't even show you a screenshot of what I'm talking about",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "New updates are absolutely horrible! Also so obnoxious I can't delete or move photos by selecting the select all button anymore... I have to select each and every one I have to sel",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 69,
+      "text": "New updates are absolutely horrible! Also so obnoxious I can't delete or move photos by selecting the select all button anymore... I have to select each and every one I have to select each and everyone individually which is extremely time-consuming. (Upset Android user) ... also obnoxious editing pops up to tell you what album to find the photos in. this is obnoxious annoying and time-consuming I hate it all 💢 I've noticed me upon numerous others are complaining about all these issues. F AI",
+      "date": "2026-08-27"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "You can no longer search your photos without turning on Backup. Time for a new App, goodbye Photos. Update: Google Dark Patterns and Prevent Uninstallation. Actually Photos pretend",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 70,
+      "text": "You can no longer search your photos without turning on Backup. Time for a new App, goodbye Photos. Update: Google Dark Patterns and Prevent Uninstallation. Actually Photos pretends you can uninstall it, but it just hides, uploading all your data to the cloud against your will. I smell a class action lawsuit brewing..",
+      "date": "2026-09-15"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I used to love google photos and drive but now it is not working as I set it to! I keep turning the backup OFF and it magically turns itself back ON within a month. cluttering the ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 71,
+      "text": "I used to love google photos and drive but now it is not working as I set it to! I keep turning the backup OFF and it magically turns itself back ON within a month. cluttering the photos I would actually like to save to google photos, like real photos, with the random screenshots and gifs I DO NOT WANT TO SAVE TO GOOGLE! Then when I try to delete the photos off of the google photos it deletes it from my device also, even with the auto sync OFF! LET US DELETE FROM GOOGLE ALONE NOT EVERYTHING!",
+      "date": "2026-08-31"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "photos is great, but the new update they put in for music playing over the \"memories\" is very annoying! I can't hear the original audio and I can't find an option to turn the music",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 72,
+      "text": "photos is great, but the new update they put in for music playing over the \"memories\" is very annoying! I can't hear the original audio and I can't find an option to turn the music off. I'd be giving 5 stars for this rating if that was fixed!",
+      "date": "2026-09-03"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google Photos is an excellent app for storing, organizing, and managing photos and videos. The automatic backup, powerful search, easy sharing, editing tools, and smart organizatio",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 73,
+      "text": "Google Photos is an excellent app for storing, organizing, and managing photos and videos. The automatic backup, powerful search, easy sharing, editing tools, and smart organization features make it extremely convenient. I especially like how easy it is to find old memories and access them across devices. Overall, a must-have app for managing photos and videos.",
+      "date": "2026-08-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "They removed the ability to see photo information. it used to be if you clicked the \"about\" button it would tell you the format of the photo for example. now it's been replaced wit",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 74,
+      "text": "They removed the ability to see photo information. it used to be if you clicked the \"about\" button it would tell you the format of the photo for example. now it's been replaced with an AI slop search bar. I don't need AI to look at my damn photo I need to know if it's a JPEG or PNG. Just another thing in the long list of AI slop features that no one asked for to make your user experience \"better\" you're welcome!",
+      "date": "2026-06-25"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Hate it. I cant stand how it automatically stores my photos in Numerous different folders without asking me where I want them, it makes it SO much more difficult to easily find wha",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 75,
+      "text": "Hate it. I cant stand how it automatically stores my photos in Numerous different folders without asking me where I want them, it makes it SO much more difficult to easily find what I'm looking for when they're scattered in 12 different places that don't even make sense together.",
+      "date": "2026-09-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "Great editing features. It would be improved hugely if the facial organisation allowed efficient manual rearrangement. Removing faces takes a really long time as well as not being ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 76,
+      "text": "Great editing features. It would be improved hugely if the facial organisation allowed efficient manual rearrangement. Removing faces takes a really long time as well as not being able to delete categories which the app has made which may consist of completely random photos. You also cannot manually add photos to a face which is annoying. The worst feature however is the search function constantly never working and showing blanks for even the suggested search.",
+      "date": "2026-09-06"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Hate the update, no longer able to search without using Gemini, which I also hate. Have disabled Gemini, because I couldn't search anything, without it popping up several times, ev",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 77,
+      "text": "Hate the update, no longer able to search without using Gemini, which I also hate. Have disabled Gemini, because I couldn't search anything, without it popping up several times, even though I had already said no, and closed it. *Editing to add, since there's no way to reply to your reply. Ask photos also requires Gemini, so that doesn't help at all. Thanks for nothing 👍🏻",
+      "date": "2026-09-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "low",
+      "verbatim_quote_summary": "organization difficulty. it's great having folders but I wish they'd disappear from the main folder or something once organized into one otherwise they can get sorted into multiple",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 78,
+      "text": "organization difficulty. it's great having folders but I wish they'd disappear from the main folder or something once organized into one otherwise they can get sorted into multiple folders and it's a mess. also the search for any of my Pic is difficult when I'm trying to find a specific one but any of the key words don't make it pop up so I end up just having to scroll. it seems like a problem other users are having as I see very similar reviews. the app updates often but ive had this same issue",
+      "date": "2026-08-10"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "photos disappear after editing them. there's no way to attach them to any message or chat unless you take a new screenshot or save it as a new copy. looks like this has been an iss",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 79,
+      "text": "photos disappear after editing them. there's no way to attach them to any message or chat unless you take a new screenshot or save it as a new copy. looks like this has been an issue for a long time and Google is ignoring it.",
+      "date": "2026-09-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "people_anchored",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "low",
+      "verbatim_quote_summary": "I really like how easy Google Photos makes it to share photos with friends and family. One thing I dont really like is the music they use when showing Memories. In the past, the mu",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 80,
+      "text": "I really like how easy Google Photos makes it to share photos with friends and family. One thing I dont really like is the music they use when showing Memories. In the past, the music was often instrumental or no vocals, which I preferred. Now some of the songs have people singing which I find a bit distracting. I wish there was an option in the settings to change the type of music used for Memories.",
+      "date": "2026-08-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Locked Folder is missing from my Google Photos app. I checked Collections, but there is no Locked Folder option at all. I also checked the settings, but I cannot find the Locked Fo",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 81,
+      "text": "Locked Folder is missing from my Google Photos app. I checked Collections, but there is no Locked Folder option at all. I also checked the settings, but I cannot find the Locked Folder or its backup option. This happened after the recent Google Photos update. Please help me restore access to my Locked Folder. I have important photos stored there and I do not want them to be deleted. 😭",
+      "date": "2026-08-21"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Completely messed up the search function. It used to be really simple to search, now there's about 3 more unnecessary steps added for no upside as far as I can see. Please reinstat",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 82,
+      "text": "Completely messed up the search function. It used to be really simple to search, now there's about 3 more unnecessary steps added for no upside as far as I can see. Please reinstate the old UI.",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Search used to be effortless, but the latest updates ruined it. It can't locate anything anymore even obvious photos that I know are right there in my library. Frustrating to see a",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 83,
+      "text": "Search used to be effortless, but the latest updates ruined it. It can't locate anything anymore even obvious photos that I know are right there in my library. Frustrating to see a core feature stop working properly. peak enshittification",
+      "date": "2026-09-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "high",
+      "verbatim_quote_summary": "there is so many features which annoy me yet i cant turn them off. auto album is one of them. it takes photos what kind of resemble something and stuff them into a folder. which is",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 84,
+      "text": "there is so many features which annoy me yet i cant turn them off. auto album is one of them. it takes photos what kind of resemble something and stuff them into a folder. which is inside some group full of useless automatic folders. intook a photo of an important paper of mine, and the app stuffed it into \"Receipt\" folder. its not even a receipt nor does it look like a bill. why is it in receipt folder.",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Uploaded over 4.5 Gig of my Photos to a Cloud that I don't trust without my permission after an Update. A Major Privacy threat, that made it very difficult to also find the setting",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 85,
+      "text": "Uploaded over 4.5 Gig of my Photos to a Cloud that I don't trust without my permission after an Update. A Major Privacy threat, that made it very difficult to also find the settings to stop it. While using expensive Data and not WiFi.",
+      "date": "2026-09-07"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Since my last review the app has improved dramatically. However, there is still one niggle. The taskbar could do with being able to modify to suit. I would rather organise that to ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 86,
+      "text": "Since my last review the app has improved dramatically. However, there is still one niggle. The taskbar could do with being able to modify to suit. I would rather organise that to Collections, Photos, Search, Create as this is the most used order.",
+      "date": "2026-09-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "\"Google Photos needs to add a proper selective backup feature. Currently, it backs up everything automatically, including downloaded images, screenshots, and videos, without allowi",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 87,
+      "text": "\"Google Photos needs to add a proper selective backup feature. Currently, it backs up everything automatically, including downloaded images, screenshots, and videos, without allowing users to choose only camera photos or exclude videos. Please give us separate toggles to control photo and video backups, as well as the ability to choose specific device folders.\"",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Always finds the right pictures. I am impressed how the collected stories capture such great moments.",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 88,
+      "text": "Always finds the right pictures. I am impressed how the collected stories capture such great moments.",
+      "date": "2026-09-18"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "visual_evaluation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Duplicates. I have a ton of duplicate photos that I can’t find a way to delete without clicking each one individually as I find them. I can’t ever get them all! Even other apps don",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 89,
+      "text": "Duplicates. I have a ton of duplicate photos that I can’t find a way to delete without clicking each one individually as I find them. I can’t ever get them all! Even other apps don’t pick up on them for some reason please help",
+      "date": "2026-09-17"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "refinement",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "5 years and counting!. Tried again and it’s still an unorganized mess. Update: Just cancelled my subscription. Not giving any more money when feedback is being ignored across all G",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 90,
+      "text": "5 years and counting!. Tried again and it’s still an unorganized mess. Update: Just cancelled my subscription. Not giving any more money when feedback is being ignored across all Google products. 4 years and still no fix… There’s still no slider for recently added, only on the default homepage, which makes photos and videos I save from social media end up out of order. The slider on recently added only scrolls a little at a time compared to the defualt page being able to jump months or years. On iPhone the video player is buggy too. The play button keeps showing on loops and they stutter instead of playing smooth. Android finally got the slider back but iPhone is still waiting. I already back everything up with another service, but it’s frustrating that Google ignores feedback. It’s been years with no simple improvements. Same with YouTube Music. No quick scroll in long playlists and no way to search songs inside a playlist. These are basic features that should’ve been here by now 🤷‍♂️",
+      "date": "2026-09-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Super photo Memories. I’m retired.. and so very often I find comfort in just sitting and watching my so many friends and events and so many precious memories I’m thankful to have t",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 91,
+      "text": "Super photo Memories. I’m retired.. and so very often I find comfort in just sitting and watching my so many friends and events and so many precious memories I’m thankful to have this close to me , it’s a blessing",
+      "date": "2026-09-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Can’t sync photos anymore. Google Photos app on iPhone shows 736 photos for an album, but on the website shows only 84 photos. No upload status is shown. No way to get help! “Help ",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 92,
+      "text": "Can’t sync photos anymore. Google Photos app on iPhone shows 736 photos for an album, but on the website shows only 84 photos. No upload status is shown. No way to get help! “Help and feedback” just keeps going round and round in circles. Overall… Google tools are great when they work, and suck when they don’t . More and more though… I am finding that Google tools no longer work. And have no way to fix / contact support.",
+      "date": "2026-09-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Better apple photo. Remember photos are fun, and google’s photo app is a lot of fun, it reminds me to laugh more and worry less.",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 93,
+      "text": "Better apple photo. Remember photos are fun, and google’s photo app is a lot of fun, it reminds me to laugh more and worry less.",
+      "date": "2026-09-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Using Google Photos. Google Photos: Simple to use and to retrieve. Sharp colors and great for all subjects!",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 94,
+      "text": "Using Google Photos. Google Photos: Simple to use and to retrieve. Sharp colors and great for all subjects!",
+      "date": "2026-09-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "It’s every photo you’ve taken or nothing… and that sucks. This app forces you to back-up every single photo in your camera roll. I don’t want my Google Photos to have every single ",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 95,
+      "text": "It’s every photo you’ve taken or nothing… and that sucks. This app forces you to back-up every single photo in your camera roll. I don’t want my Google Photos to have every single screenshot or bad photo I’ve ever taken. Just let users backup the photos they want to save and not everything that’s on our phones… 🙄",
+      "date": "2026-09-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "emotional_episodic",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Remember. In memory of the purple horse, Lavender",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 96,
+      "text": "Remember. In memory of the purple horse, Lavender",
+      "date": "2026-09-04"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Can you find?. Liam’s Birth June 30, 2016",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 97,
+      "text": "Can you find?. Liam’s Birth June 30, 2016",
+      "date": "2026-09-03"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "emotional_episodic",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "i’m going to find a different way to save my memories without limits and without trashy edits.. I don't want my memories to have music with lyrics. I am a Christian and I was watch",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 98,
+      "text": "i’m going to find a different way to save my memories without limits and without trashy edits.. I don't want my memories to have music with lyrics. I am a Christian and I was watching a memory and the words to the song said if you go to hell I'll go there with you. That is absolutely insane that you would have pictures of your sweet memories and videos of your precious memories with a song in the background that talks about going to hell. It's absolutely disgusting and disheartening and it makes me want to find an alternative way to save my photos and my memories and videos without using your services at all. as a matter of fact I think I'm going to find an alternative route to saving all of my precious memories so I can exclude your service entirely. Disgusting.",
+      "date": "2026-09-03"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "location",
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Getting buggy. Ive used google photos for the past 10 years or so. Ive noticed it getting buggy especially in the AI features. About half the time I load in a photo to use magic er",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 99,
+      "text": "Getting buggy. Ive used google photos for the past 10 years or so. Ive noticed it getting buggy especially in the AI features. About half the time I load in a photo to use magic eraser. There’s a bizarre glitch that permanently makes the photo look like it’s been stamped with itself over and over again, like a double exposure. It is also odd to me that once you use magic research to remove someone in the background, you can no longer edit any other aspect about the photo such as exposure or color. I have also noticed on iPhone a weird phenomenon where once you hit save on an edited photo the end result actually looks different than when it was being edited. Like the preview of the photo during editing is not accurate. All of these things combined has made me really loose trust for this app and no longer want to edit photos with it.",
+      "date": "2026-09-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Yay, Videos. I can’t always find the videos I’m looking for but it is nice when they just pop up with a new video of memories or wanna make dogs. It’s kind of cool they put it to m",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 100,
+      "text": "Yay, Videos. I can’t always find the videos I’m looking for but it is nice when they just pop up with a new video of memories or wanna make dogs. It’s kind of cool they put it to music. The only thing is I don’t know how really did edit them that well but that’s OK.",
+      "date": "2026-09-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Love. I love how I can put a date in the search bar and all my photos will appear and bring awesome memories back to life!!",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 101,
+      "text": "Love. I love how I can put a date in the search bar and all my photos will appear and bring awesome memories back to life!!",
+      "date": "2026-09-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "So much fun!!. I’m loving this Google Photos back up and edit series. I can do so many different things in view photos in different mini aspects. It’s a lot of fun and an easy way ",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 102,
+      "text": "So much fun!!. I’m loving this Google Photos back up and edit series. I can do so many different things in view photos in different mini aspects. It’s a lot of fun and an easy way to find all of your photos. I strongly recommend it.",
+      "date": "2026-09-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google photos and in my Gmail too back up app. When I go to my Google photos and I take a screenshot after I edit it when I buy things at a store in different towns and different p",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 103,
+      "text": "Google photos and in my Gmail too back up app. When I go to my Google photos and I take a screenshot after I edit it when I buy things at a store in different towns and different places why doesn’t it show up on top of the photo? Can you help me out? It used to and it stopped doing it. I don’t know if my settings are incorrectly.",
+      "date": "2026-09-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google Pixs. I enjoy how they categorize pics. Makes it easy to find a photo.",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 104,
+      "text": "Google Pixs. I enjoy how they categorize pics. Makes it easy to find a photo.",
+      "date": "2026-08-30"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "who_was_present"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Love Google Photos!. Not only does it store my photos in the Cloud, it does so much more! Checking out all the fun things I can do with my photos--make collages, edit, cinematic ph",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 105,
+      "text": "Love Google Photos!. Not only does it store my photos in the Cloud, it does so much more! Checking out all the fun things I can do with my photos--make collages, edit, cinematic photos, photo to video, search, and a lot more. Very pleased!",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Juntos. Love the way my memories are m being able to remember them through google Awesome job",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 106,
+      "text": "Juntos. Love the way my memories are m being able to remember them through google Awesome job",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "The Best. The ONLY way to save all of your photos and videos in an organized and easy to find format is to",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 107,
+      "text": "The Best. The ONLY way to save all of your photos and videos in an organized and easy to find format is to",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Jamaica 2023. Time fly’s fast, so enjoy life each year and find a great church that you like and live for God!! So when this life is all most over you want have no regrets. I did, ",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 108,
+      "text": "Jamaica 2023. Time fly’s fast, so enjoy life each year and find a great church that you like and live for God!! So when this life is all most over you want have no regrets. I did, and still is when ever I can. Yes and love my church home. Thank God for my life. I will live for him.",
+      "date": "2026-08-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Thanks google. Thanks for improving and watching my hackers & dark web trafficking POs and documenting everything!Bro & sisters ✅🇺🇸",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 109,
+      "text": "Thanks google. Thanks for improving and watching my hackers & dark web trafficking POs and documenting everything!Bro & sisters ✅🇺🇸",
+      "date": "2026-08-28"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Verified. I sure love the way they put your old memories together and make you remember good memories buried within thousands of pictures and videos.",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 110,
+      "text": "Verified. I sure love the way they put your old memories together and make you remember good memories buried within thousands of pictures and videos.",
+      "date": "2026-08-26"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Prefect. Hard to find right word prefect",
+      "source": "app_store",
+      "source_url": "https://apps.apple.com/app/google-photos/id962194608",
+      "id": 111,
+      "text": "Prefect. Hard to find right word prefect",
+      "date": "2026-08-25"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "If you search images of something on Google, the images are not always in the same order. For example, in the images of Lori Loud from The Loud House on Google, there used to be an",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=o44v9PZpH-I",
+      "id": 112,
+      "text": "If you search images of something on Google, the images are not always in the same order. For example, in the images of Lori Loud from The Loud House on Google, there used to be an image where Lori stands in front of a fridge shrugging which is from an episode of which I forgot the name, and one where she sits at a table with a pencil in her mouth. There were also some images from the episode of Adventure Time \"Something Big\", such as one where Princess Bubblegum stands somewhere in the part when she wondered where is Finn, one where she stood and said \"Alright\" before she went on the flying swan, and one where she is on the swan before it flies away, in which she also has a green outline.",
+      "date": "2024-05-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Best fix is, turn off ur backup settings for a while, search ur old photos which u want to download and the turn ur back up settings to on",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=o44v9PZpH-I",
+      "id": 113,
+      "text": "Best fix is, turn off ur backup settings for a while, search ur old photos which u want to download and the turn ur back up settings to on",
+      "date": "2024-06-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Bhai Google chrome ke mai ek account me kuchh search karta hu aur phir mai account switch karta hu to jo maine account mei search Kiya vo switch kiye hue account ke bhi history me ",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=_hE22nMDh88",
+      "id": 114,
+      "text": "Bhai Google chrome ke mai ek account me kuchh search karta hu aur phir mai account switch karta hu to jo maine account mei search Kiya vo switch kiye hue account ke bhi history me aa jata hai. Mai sabhi accounts ka data alag rakhna chahta hu iska koi upaye hai?",
+      "date": "2024-12-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Chrome history delete karne ke bad agale din FIR usmein show hota hai ki humne Kya search kiya hai",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=_hE22nMDh88",
+      "id": 115,
+      "text": "Chrome history delete karne ke bad agale din FIR usmein show hota hai ki humne Kya search kiya hai",
+      "date": "2025-04-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Bhaiya googal pr search history show nhi ho raha hai kese thik kre please help me and jo bhi search kar rahe hai wo hat ja raha hai please help me",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=_hE22nMDh88",
+      "id": 116,
+      "text": "Bhaiya googal pr search history show nhi ho raha hai kese thik kre please help me and jo bhi search kar rahe hai wo hat ja raha hai please help me",
+      "date": "2024-05-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google photos main screenshot backup off kaise Karen??????? Please bata dijiye🙏",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=nZfTqlUT-ps",
+      "id": 117,
+      "text": "Google photos main screenshot backup off kaise Karen??????? Please bata dijiye🙏",
+      "date": "2024-01-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "no extra app on samsung S24+ (and others I'm sure.) have a similar feature. as long as the image is on the screen press and hold the home button. the screen will change color. Just",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 118,
+      "text": "no extra app on samsung S24+ (and others I'm sure.) have a similar feature. as long as the image is on the screen press and hold the home button. the screen will change color. Just circle the item in the images and the AI will do a Google search.",
+      "date": "2024-09-04"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "You could also go to the Google lens search and attach the photo instead of dragging it, and all that",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 119,
+      "text": "You could also go to the Google lens search and attach the photo instead of dragging it, and all that",
+      "date": "2024-12-09"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Why can't I just circle the image to search, like you can on Samsung?",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 120,
+      "text": "Why can't I just circle the image to search, like you can on Samsung?",
+      "date": "2025-03-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Or, install the Google app > tap share button in the photos app > add “search with Google lens“",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 121,
+      "text": "Or, install the Google app > tap share button in the photos app > add “search with Google lens“",
+      "date": "2024-07-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "You don't even have to do that just copy the image even if it's on your phone or not and paste it into the Google lens search bar",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 122,
+      "text": "You don't even have to do that just copy the image even if it's on your phone or not and paste it into the Google lens search bar",
+      "date": "2026-03-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "temporal_only",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "This didn’t work for me. I have IOS 17.2.1. When I drug the photo up to the search area on the Google app, the + sign never appeared. Any suggestions?",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=lkVlcjeusjA",
+      "id": 123,
+      "text": "This didn’t work for me. I have IOS 17.2.1. When I drug the photo up to the search area on the Google app, the + sign never appeared. Any suggestions?",
+      "date": "2023-12-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Can't find none of the ones that have a race already on me for my other Gmail",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=ADWWe1kcLUo",
+      "id": 124,
+      "text": "Can't find none of the ones that have a race already on me for my other Gmail",
+      "date": "2026-05-18"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I got eight emails don't remember everyone home can't recover screenshots from home",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=ADWWe1kcLUo",
+      "id": 125,
+      "text": "I got eight emails don't remember everyone home can't recover screenshots from home",
+      "date": "2026-05-18"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "You saved my sanity. 😂 All of a sudden I couldn't find my screenshots in the gallery where I've found them in the past for years! Your suggestion of holding the photo icon on the h",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=YO1icFHngMs",
+      "id": 126,
+      "text": "You saved my sanity. 😂 All of a sudden I couldn't find my screenshots in the gallery where I've found them in the past for years! Your suggestion of holding the photo icon on the homepage worked Perfectly! Thank you !",
+      "date": "2024-08-10"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Thanks. Great help, I couldn't find my recent ones",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=YO1icFHngMs",
+      "id": 127,
+      "text": "Thanks. Great help, I couldn't find my recent ones",
+      "date": "2024-05-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "stupid android update one after another smh. the damn screenshots should be findable on file explorers. man I'm sick with these stupid updates",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=YO1icFHngMs",
+      "id": 128,
+      "text": "stupid android update one after another smh. the damn screenshots should be findable on file explorers. man I'm sick with these stupid updates",
+      "date": "2025-11-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "in google photos app not comming screenshot foulder screenshoting going camera foulder please solve",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=URzMaBj-ZtA",
+      "id": 129,
+      "text": "in google photos app not comming screenshot foulder screenshoting going camera foulder please solve",
+      "date": "2022-01-28"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Mere camera ki photo aur sara screenshot delete hogye he kya kru yrr koi btaye ga",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=URzMaBj-ZtA",
+      "id": 130,
+      "text": "Mere camera ki photo aur sara screenshot delete hogye he kya kru yrr koi btaye ga",
+      "date": "2022-11-20"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Bhai 4 month phle screenshot delete ho gya tha wo kaisi waps le",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=URzMaBj-ZtA",
+      "id": 131,
+      "text": "Bhai 4 month phle screenshot delete ho gya tha wo kaisi waps le",
+      "date": "2022-06-04"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Screenshot ko band kaise kre kyoki screenshot ka backup jruri nhi h",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=URzMaBj-ZtA",
+      "id": 132,
+      "text": "Screenshot ko band kaise kre kyoki screenshot ka backup jruri nhi h",
+      "date": "2021-11-27"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Screenshot ka back nhi lena hai kaise band kare",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=URzMaBj-ZtA",
+      "id": 133,
+      "text": "Screenshot ka back nhi lena hai kaise band kare",
+      "date": "2024-02-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Thank you sooo much ...could retrieve all the photos with ease",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=W8P4oyjWMGs",
+      "id": 134,
+      "text": "Thank you sooo much ...could retrieve all the photos with ease",
+      "date": "2025-06-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Gjbb, really helped finding me my photos i deleted long time ago 😊",
+      "source": "youtube",
+      "source_url": "https://www.youtube.com/watch?v=opj6yNDLhmc",
+      "id": 135,
+      "text": "Gjbb, really helped finding me my photos i deleted long time ago 😊",
+      "date": "2025-06-20"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Puts row of creepy figures bottom of every screenshot so I have to take more screenshot of team stats and lists. Is not helpful! Now it's 8/24/26 and is big lagging delay before wi",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 136,
+      "text": "Puts row of creepy figures bottom of every screenshot so I have to take more screenshot of team stats and lists. Is not helpful! Now it's 8/24/26 and is big lagging delay before will take my screenprint, and still has line blocking new at bottom I cannot get rid of!",
+      "date": "2026-08-24"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Recent updates have introduced a bunch of bugs that make it really inconvenient to use daily. The grid view has random large or elongated photos making it hard to scan photos and f",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 137,
+      "text": "Recent updates have introduced a bunch of bugs that make it really inconvenient to use daily. The grid view has random large or elongated photos making it hard to scan photos and follow their chronological order. The edit tools randomly switch order, making it take longer to find specific tools. Select and drag is completely bugged, making it tedious to select more than one photo. Really disappointing, as this was one of the most polished Google apps but is now buggy and a chore to use.",
+      "date": "2026-08-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "location"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "What a terribly oversimplified Android app, you can't select photos from anywhere but your camera roll. If I use a file application, there's \"upload to photos\" after tapping the sh",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 138,
+      "text": "What a terribly oversimplified Android app, you can't select photos from anywhere but your camera roll. If I use a file application, there's \"upload to photos\" after tapping the share icon, but that disappears as an option when you select more than one photo. I could upload them to Drive however, so I did that only to find out on the Android photos app you can't add photos from your Google Drive. It's too Appley \"stay in this single lane\" of an experience.",
+      "date": "2026-08-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "who_was_present",
+        "what_it_was_for",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I've loved Google Photos for the longest time, I've even upgraded my Google One so my family can have more storage, since we are both starting our own businesses we are required to",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 139,
+      "text": "I've loved Google Photos for the longest time, I've even upgraded my Google One so my family can have more storage, since we are both starting our own businesses we are required to take a lot of photos and screenshots for our work. There was recently an update that drastically slowed how quickly our photos load even on device photos. I fully expect when you have a flagship phone and a premium membership for your photos to load much quicker.",
+      "date": "2026-07-31"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "who_was_present",
+        "device_used"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "high",
+      "verbatim_quote_summary": "I've been using this app for years, and overall haven't had any problems. 1 thing I've recently been having to deal with is running out of free storage space (for backed up photos)",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 140,
+      "text": "I've been using this app for years, and overall haven't had any problems. 1 thing I've recently been having to deal with is running out of free storage space (for backed up photos). I very much wish I could manually select and choose which photos are backed up vs not. Stuff from Pinterest, screenshots, etc, I wish I could select these photos to not be backed up, and only back up important photos from my camera roll or photos sent from friends. I would be so grateful if this became an app feature",
+      "date": "2026-06-29"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "location",
+        "what_it_was_for"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "automatic backup is nice, although it is very annoying that there is no easy way to un-backup an image once uploaded. Random large images on the photos view is a terrible eyesore, ",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 141,
+      "text": "automatic backup is nice, although it is very annoying that there is no easy way to un-backup an image once uploaded. Random large images on the photos view is a terrible eyesore, it was fine before there was no need to make it worse. Collections tab is annoying: albums are too large and there is no way to choose which image is displayed for them, there is no way to order them, there is no way to remove the useless documents tab which nobody would ever use. Hiding places tab would be good too.",
+      "date": "2026-07-28"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "very bad navigation. whenever I have to send or share a photo I never find it in photos, because it never show recently downloaded photos on top. it uses some metadata which is use",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 142,
+      "text": "very bad navigation. whenever I have to send or share a photo I never find it in photos, because it never show recently downloaded photos on top. it uses some metadata which is useless. example if I have to send a photo to a person just downloaded from Gmail, it goes far below in choose photo list. I have to go to files application, then I see the photo on the top, then I click share button. but there are few applications like gmail, doesn't support files, in this case I take screenshot of file",
+      "date": "2026-07-21"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I like google photos a lot. I don't really get why anyone would use anything else. I find every other app frustrating to some degree. Many apps don't play nicely with other operati",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 143,
+      "text": "I like google photos a lot. I don't really get why anyone would use anything else. I find every other app frustrating to some degree. Many apps don't play nicely with other operating systems. That issue seems way less problematic on Google photos. sharing is easy. Everything is backed up. All the editing tools I need are in the app.",
+      "date": "2026-07-18"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "visual_evaluation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "approximate_time",
+        "device_used",
+        "visual_appearance"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "high",
+      "verbatim_quote_summary": "Far too many changes behind the scenes. A while back my pictures were backed up from my phone and then available in Google Photos on my phone and laptop as well as Photoscan by Goo",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 144,
+      "text": "Far too many changes behind the scenes. A while back my pictures were backed up from my phone and then available in Google Photos on my phone and laptop as well as Photoscan by Google. Now it is unclear what has been kept or lost. The tools keep changing around behind the scenes and we never get new signposts. The new search cannot be jigged. it shows people who are distinctly not me as photos of me are labelled me. It can't be told. Then keyword searched is replaced by chatty scatter-gun AI",
+      "date": "2026-07-30"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Stop changing this goddamn app. it was good the way it was before, it does not need a change in design. It does not need the Tabs suddenly be floating, it doesn't need not being ab",
+      "source": "play_store",
+      "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+      "id": 145,
+      "text": "Stop changing this goddamn app. it was good the way it was before, it does not need a change in design. It does not need the Tabs suddenly be floating, it doesn't need not being able to sort through albums. It does not need the dates suddenly turned off, and then when you turn them off centered again. Find something else to do for the interns, it looks fine. Also, give us the option to turn off Material You, it looks awful",
+      "date": "2026-07-23"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "approximate_time",
+        "what_it_was_for",
+        "device_used",
+        "visual_appearance"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "I know I took a screenshot of a medicine label when I was sick last year but search does not understand that. I do not remember the date or the brand name so I scroll for hours.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 146,
+      "text": "I know I took a screenshot of a medicine label when I was sick last year but search does not understand that. I do not remember the date or the brand name so I scroll for hours.",
+      "date": "2025-06-01"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Google Photos search is useless when I remember why I captured something (a receipt for a form) but not what to type. I ended up asking my partner to look on their phone.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 147,
+      "text": "Google Photos search is useless when I remember why I captured something (a receipt for a form) but not what to type. I ended up asking my partner to look on their phone.",
+      "date": "2025-05-12"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for",
+        "device_used"
+      ],
+      "workaround_used": "gave_up",
+      "severity": "high",
+      "verbatim_quote_summary": "I cannot find the WiFi password screenshot I saved. Search for wifi returns random photos. I gave up and photographed the router again.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 148,
+      "text": "I cannot find the WiFi password screenshot I saved. Search for wifi returns random photos. I gave up and photographed the router again.",
+      "date": "2025-04-20"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "used_album",
+      "severity": "medium",
+      "verbatim_quote_summary": "Tried to find an old boarding pass screenshot before a trip. No album, no date in my head. Repeated search attempts then used email instead.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 149,
+      "text": "Tried to find an old boarding pass screenshot before a trip. No album, no date in my head. Repeated search attempts then used email instead.",
+      "date": "2025-03-08"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "none"
+      ],
+      "workaround_used": "manual_scroll",
+      "severity": "medium",
+      "verbatim_quote_summary": "I treat Photos as a filing cabinet for IDs and bills. Finding them later is harder than taking them. I manually scroll years of camera roll.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 150,
+      "text": "I treat Photos as a filing cabinet for IDs and bills. Finding them later is harder than taking them. I manually scroll years of camera roll.",
+      "date": "2025-02-14"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for",
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Search does not find screenshots of documents even when I remember I needed them for KYC. Location and filename are gone from my memory.",
+      "source": "google_support_community",
+      "source_url": "https://support.google.com/photos",
+      "id": 151,
+      "text": "Search does not find screenshots of documents even when I remember I needed them for KYC. Location and filename are gone from my memory.",
+      "date": "2025-01-30"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "People tab is fine. The problem is screenshots. They vanish unless I remember the exact words on screen.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 152,
+      "text": "People tab is fine. The problem is screenshots. They vanish unless I remember the exact words on screen.",
+      "date": "2024-12-11"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "recall_trigger",
+      "memory_type": "unclear",
+      "memory_anchors_mentioned": [
+        "device_used"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "I remembered the photo was after I got sick, not the month. Photos wanted a date. I used WhatsApp starred messages instead.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 153,
+      "text": "I remembered the photo was after I got sick, not the month. Photos wanted a date. I used WhatsApp starred messages instead.",
+      "date": "2024-11-02"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "query_formulation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "approximate_time"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Tip videos say search by object. That fails for a white medicine box that looks like every other box. I still cannot find last year's prescription photo.",
+      "source": "youtube",
+      "source_url": "nan",
+      "id": 154,
+      "text": "Tip videos say search by object. That fails for a white medicine box that looks like every other box. I still cannot find last year's prescription photo.",
+      "date": "2024-10-05"
+    },
+    {
+      "is_retrieval_related": true,
+      "funnel_stage_failure": "visual_evaluation",
+      "memory_type": "functional_utility",
+      "memory_anchors_mentioned": [
+        "what_it_was_for"
+      ],
+      "workaround_used": "none_mentioned",
+      "severity": "medium",
+      "verbatim_quote_summary": "Too many near duplicate receipts. Even when search is close I cannot tell which bill is the one for the visa file.",
+      "source": "reddit",
+      "source_url": "nan",
+      "id": 155,
+      "text": "Too many near duplicate receipts. Even when search is close I cannot tell which bill is the one for the visa file.",
+      "date": "2024-09-18"
+    }
+  ]
+}
