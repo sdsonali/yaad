@@ -15,3 +15,12 @@ export function replyLanguageFor(query: string, modelLang: Intent["language"]): 
   if (modelLang === "hi_deva" || modelLang === "hinglish_roman" || modelLang === "en") return modelLang;
   return "en";
 }
+
+export function isRejection(text: string): boolean {
+  const raw = text.toLowerCase().replace(/[’']/g, "");
+  if (/यह नहीं|ये नहीं|नहीं चाहिए|यह वाली नहीं|ये वाली नहीं|गलत/.test(raw)) return true;
+  const normalized = raw.replace(/[^a-z\s]/g, " ").replace(/\s+/g, " ").trim();
+  if (!normalized) return false;
+  if (normalized === "no" || normalized === "nope" || normalized === "nahi" || normalized === "nahin") return true;
+  return /\bnot\b.{0,16}\b(one|it|this)\b/.test(normalized) || /\b(wrong|incorrect|galat)\b/.test(normalized);
+}

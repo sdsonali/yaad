@@ -1,6 +1,6 @@
 import { labels } from "../data/labels";
 import libraryJson from "../data/photos.json";
-import { selectFacet } from "./facets";
+import { selectFollowUp } from "./facets";
 import { replyLanguageFor } from "./language";
 import { classicSearch, retrieve } from "./retrieve";
 import type { Intent, Photo, Question, Ranked, ReplyLang, SearchAction, SearchState } from "./types";
@@ -15,7 +15,7 @@ function withExtra(extra: Photo[]) {
 }
 
 export function emptyState(): SearchState {
-  return { query: "", intent: null, constraints: [], askedFacets: [], round: 0, showHidden: false };
+  return { query: "", intent: null, constraints: [], askedFacets: [], round: 0, showHidden: false, excluded: [] };
 }
 
 export function reduceState(prev: SearchState | null, action: SearchAction | undefined, intent?: Intent, query?: string): SearchState {
@@ -27,10 +27,16 @@ export function reduceState(prev: SearchState | null, action: SearchAction | und
       askedFacets: [],
       round: 0,
       showHidden: false,
+      excluded: [],
     };
   }
-  const state = prev ?? emptyState();
+  const state = { ...emptyState(), ...prev, excluded: prev?.excluded ?? [] };
   if (!action) return state;
+  if (action.type === "reject") {
+    const excluded = [...new Set([...state.excluded, ...action.ids])];
+    return { ...state, excluded, showHidden: false };
+  }
+  if (action.type === "answer" && action.facet === "confirm") return state;
   if (action.type === "showHidden") return { ...state, showHidden: true };
   if (action.type === "remove") {
     return {
@@ -80,9 +86,11 @@ export function viewFor(state: SearchState, mode: "assist" | "classic", extra: P
     return { results: [], hidden: { count: 0, byType: {} }, question: null, assistantText: "", replyLanguage: "en" };
   }
   const lang = replyLanguageFor(state.query, state.intent.language);
+  const excluded = new Set(state.excluded ?? []);
   const retrieved = retrieve(photos, state.intent, state.constraints);
-  const candidates = retrieved.results.map((row) => index.get(row.id)).filter((photo): photo is Photo => Boolean(photo));
-  const question = selectFacet({
+  const ranked = retrieved.results.filter((row) => !excluded.has(row.id));
+  const candidates = ranked.map((row) => index.get(row.id)).filter((photo): photo is Photo => Boolean(photo));
+  const question = selectFollowUp({
     candidates,
     intent: state.intent,
     askedFacets: state.askedFacets,
@@ -90,7 +98,8 @@ export function viewFor(state: SearchState, mode: "assist" | "classic", extra: P
     round: state.round,
     replyLanguage: lang,
   });
-  const results = state.showHidden ? [...retrieved.results, ...retrieved.hidden.items] : retrieved.results;
+  const hiddenItems = retrieved.hidden.items.filter((row) => !excluded.has(row.id));
+  const results = state.showHidden ? [...ranked, ...hiddenItems] : ranked;
   const assistantText = question ? question.text : results.length ? labels.here[lang] : labels.zero[lang];
   return {
     results,
@@ -105,9 +114,13 @@ export function currentQuestionFacet(state: SearchState, extra: Photo[] = []): s
   if (!state.intent) return null;
   const { photos, index } = withExtra(extra);
   const lang = replyLanguageFor(state.query, state.intent.language);
+  const excluded = new Set(state.excluded ?? []);
   const retrieved = retrieve(photos, state.intent, state.constraints);
-  const candidates = retrieved.results.map((row) => index.get(row.id)).filter((photo): photo is Photo => Boolean(photo));
-  return selectFacet({
+  const candidates = retrieved.results
+    .filter((row) => !excluded.has(row.id))
+    .map((row) => index.get(row.id))
+    .filter((photo): photo is Photo => Boolean(photo));
+  return selectFollowUp({
     candidates,
     intent: state.intent,
     askedFacets: state.askedFacets,
@@ -115,4 +128,21 @@ export function currentQuestionFacet(state: SearchState, extra: Photo[] = []): s
     round: state.round,
     replyLanguage: lang,
   })?.facet ?? null;
+}
+
+export function applyReject(state: SearchState, ids: string[], extra: Photo[] = []): SearchState {
+  let next = reduceState(state, { type: "reject", ids });
+  for (let step = 0; step < 6; step += 1) {
+    const view = viewFor(next, "assist", extra);
+    if (view.results.length > 0) return next;
+    const dropped = next.constraints[next.constraints.length - 1];
+    if (!dropped) return next;
+    next = {
+      ...next,
+      constraints: next.constraints.slice(0, -1),
+      askedFacets: next.askedFacets.filter((facet) => facet !== dropped.facet),
+      round: Math.max(0, next.round - 1),
+    };
+  }
+  return next;
 }

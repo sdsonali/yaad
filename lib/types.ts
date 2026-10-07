@@ -49,6 +49,7 @@ export type SearchState = {
   askedFacets: string[];
   round: number;
   showHidden: boolean;
+  excluded: string[];
 };
 
 export type QuestionOption = { label: string; value: string; count: number };
@@ -57,7 +58,7 @@ export type Question = {
   facet: string;
   text: string;
   options: QuestionOption[];
-  allowSkip: true;
+  allowSkip: boolean;
 };
 
 export type HiddenInfo = {
@@ -82,4 +83,5 @@ export type SearchAction =
   | { type: "answer"; facet: string; value: string }
   | { type: "skip"; facet?: string }
   | { type: "remove"; facet: string }
-  | { type: "showHidden" };
+  | { type: "showHidden" }
+  | { type: "reject"; ids: string[] };

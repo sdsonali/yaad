@@ -44,6 +44,28 @@ export const labels = {
     college: t("College", "कॉलेज", "College"),
     work: t("Work", "काम", "Work"),
   } as Record<string, Trio>,
+  month: {
+    "1": t("January", "जनवरी", "January"),
+    "2": t("February", "फ़रवरी", "February"),
+    "3": t("March", "मार्च", "March"),
+    "4": t("April", "अप्रैल", "April"),
+    "5": t("May", "मई", "May"),
+    "6": t("June", "जून", "June"),
+    "7": t("July", "जुलाई", "July"),
+    "8": t("August", "अगस्त", "August"),
+    "9": t("September", "सितंबर", "September"),
+    "10": t("October", "अक्टूबर", "October"),
+    "11": t("November", "नवंबर", "November"),
+    "12": t("December", "दिसंबर", "December"),
+  } as Record<string, Trio>,
+  object_kind: {
+    pill_strip: t("Pill strip", "गोली की पट्टी", "Pill strip"),
+    bottle: t("Bottle", "बोतल", "Bottle"),
+    thermometer: t("Thermometer", "थर्मामीटर", "Thermometer"),
+    prescription: t("Prescription", "प्रिस्क्रिप्शन", "Prescription"),
+    doctor_note: t("Doctor's note", "डॉक्टर की पर्ची", "Doctor ki parchi"),
+    lab_report: t("Lab report", "लैब रिपोर्ट", "Lab report"),
+  } as Record<string, Trio>,
   era_bucket: {
     age_3_6: t("Ages 3–6", "उम्र 3–6", "Umar 3–6"),
     age_7_10: t("Ages 7–10", "उम्र 7–10", "Umar 7–10"),
@@ -64,7 +86,20 @@ export const labels = {
     place: t("Which place?", "कौन सी जगह?", "Kaun si jagah?"),
     era_bucket: t("Around what time?", "किस समय के आसपास?", "Kis time ke aaspaas?"),
     people_present: t("Who is in it?", "इसमें कौन है?", "Ismein kaun hai?"),
+    month: t("Do you remember the month?", "महीना याद है?", "Mahina yaad hai?"),
+    object_kind: t("What do you remember seeing?", "क्या दिखना याद है?", "Kya dikhna yaad hai?"),
+    confirm: t("Is this the one?", "क्या यही वाली है?", "Kya yahi wali hai?"),
   } as Record<string, Trio>,
+  confirm: {
+    yes: t("Yes, this is it", "हाँ, यही है", "Haan, yahi hai"),
+    no: t("No, keep looking", "नहीं, और दिखाओ", "Nahi, aur dikhao"),
+  } as Record<string, Trio>,
+  rejectLead: t("Okay, not that one.", "ठीक है, यह नहीं।", "Theek hai, yeh nahi."),
+  rejectEmpty: t(
+    "That's everything I had for this. Try describing it another way.",
+    "इतनी ही फ़ोटो थीं। किसी और तरह से बताओ।",
+    "Itni hi photos thi. Kisi aur tarah se batao.",
+  ),
   skip: t("Not sure", "पक्का नहीं पता", "Pata nahi"),
   hiddenBanner: t(
     "{n} documents & screenshots hidden",
@@ -145,7 +180,7 @@ export function questionText(facet: string, lang: ReplyLang, intent: Intent): st
   return template.replace("{person}", compositionPerson(intent, lang));
 }
 
-export function phrase(key: keyof Omit<typeof labels, "occasion" | "composition" | "place" | "institution" | "era_bucket" | "question" | "typeBadge">, lang: ReplyLang): string {
+export function phrase(key: keyof Omit<typeof labels, "occasion" | "composition" | "place" | "institution" | "era_bucket" | "question" | "typeBadge" | "month" | "object_kind" | "confirm">, lang: ReplyLang): string {
   const entry = labels[key];
   if (entry && "en" in entry) return entry[lang];
   return "";

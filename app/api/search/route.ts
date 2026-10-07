@@ -1,6 +1,8 @@
 import { z } from "zod";
 import { IntentSchema, maybeRephrase, parseIntent } from "@/lib/parseIntent";
-import { currentQuestionFacet, reduceState, viewFor, type RetrievalView } from "@/lib/pipeline";
+import { labels } from "@/data/labels";
+import { isRejection } from "@/lib/language";
+import { applyReject, currentQuestionFacet, reduceState, viewFor, type RetrievalView } from "@/lib/pipeline";
 import { loadPhonePhotos } from "@/lib/phoneLibrary";
 import { clientIp, rateLimited } from "@/lib/rateLimit";
 import type { Photo, SearchState } from "@/lib/types";
@@ -15,6 +17,7 @@ const StateSchema = z.object({
   askedFacets: z.array(z.string().max(40)).max(8),
   round: z.number().int().min(0).max(6),
   showHidden: z.boolean(),
+  excluded: z.array(z.string().max(40)).max(80).default([]),
 });
 
 const BodySchema = z.object({
@@ -27,6 +30,7 @@ const BodySchema = z.object({
       z.object({ type: z.literal("skip"), facet: z.string().max(40).optional() }),
       z.object({ type: z.literal("remove"), facet: z.string().max(40) }),
       z.object({ type: z.literal("showHidden") }),
+      z.object({ type: z.literal("reject"), ids: z.array(z.string().max(40)).max(40) }),
     ])
     .optional(),
   state: StateSchema.nullish(),
@@ -70,6 +74,26 @@ export async function POST(request: Request) {
       const state = reduceState(null, undefined, undefined, body.query ?? "");
       return Response.json(payload(state, "classic", false, null, started, extra));
     }
+    const prev = (body.state as SearchState | undefined) ?? null;
+    const rejection = body.action?.type === "reject" || (Boolean(body.query && prev?.intent) && isRejection(body.query ?? ""));
+    if (rejection && prev?.intent) {
+      const ids = body.action?.type === "reject" ? body.action.ids : [];
+      const state = applyReject({ ...prev, excluded: prev.excluded ?? [] }, ids, extra);
+      const view = viewFor(state, "assist", extra);
+      const lead = labels.rejectLead[view.replyLanguage];
+      const assistantText = view.results.length === 0 ? labels.rejectEmpty[view.replyLanguage] : view.question ? `${lead} ${view.question.text}` : `${lead} ${labels.here[view.replyLanguage]}`;
+      return Response.json({
+        state,
+        results: view.results,
+        hidden: view.hidden,
+        question: view.question,
+        assistantText,
+        replyLanguage: view.replyLanguage,
+        latencyMs: Date.now() - started,
+        usedFallback: false,
+        fallbackReason: null,
+      });
+    }
     if (body.query && body.query.trim()) {
       const intentResult = await parseIntent(body.query.trim());
       let state = reduceState(null, undefined, intentResult.intent, body.query.trim());
@@ -90,7 +114,6 @@ export async function POST(request: Request) {
         fallbackReason: intentResult.reason,
       });
     }
-    const prev = (body.state as SearchState | undefined) ?? null;
     let action = body.action;
     if (action?.type === "skip" && !action.facet && prev) {
       const facet = currentQuestionFacet(prev, extra);
